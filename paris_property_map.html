@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lumyme property sales</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        
+        .header h1 {
+            color: #333;
+            margin: 0 0 10px 0;
+            font-size: 2.2em;
+            font-weight: 700;
+        }
+        
+        .subtitle {
+            color: #666;
+            font-size: 1.1em;
+            margin: 0;
+        }
+        
+        .dashboard {
+            display: grid;
+            grid-template-columns: 1fr 400px;
+            gap: 20px;
+            height: 800px;
+        }
+        
+        .map-container {
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            position: relative;
+        }
+        
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+        
+        .controls {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            z-index: 1000;
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        
+        .controls label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+        }
+        
+        .controls input[type="range"] {
+            width: 150px;
+        }
+        
+        .sidebar {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            overflow-y: auto;
+        }
+        
+        .chart-section {
+            margin-bottom: 30px;
+        }
+        
+        .chart-title {
+            font-size: 1.3em;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+        
+        .stat-card {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .stat-number {
+            font-size: 2em;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+        
+        .hotspot-list {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        
+        .hotspot-item {
+            background: #f8f9fa;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            padding: 12px;
+            margin-bottom: 10px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .hotspot-item:hover {
+            border-color: #667eea;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .hotspot-count {
+            font-weight: 700;
+            color: #667eea;
+            font-size: 1.1em;
+        }
+        
+        .hotspot-area {
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 3px;
+        }
+        
+        .legend {
+            background: white;
+            position: absolute;
+            bottom: 15px;
+            right: 15px;
+            z-index: 1000;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            font-size: 0.9em;
+        }
+        
+        .legend-title {
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #333;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            margin-right: 8px;
+        }
+        
+        @media (max-width: 1024px) {
+            .dashboard {
+                grid-template-columns: 1fr;
+                height: auto;
+            }
+            
+            .map-container {
+                height: 600px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏠 Paris Real Estate Sales Analysis</h1>
+            <p class="subtitle">Strategic Prospecting Areas Based on Historical Sales Data</p>
+        </div>
+        
+        <div class="dashboard">
+            <div class="map-container">
+                <div class="controls">
+                    <label for="radiusSlider">Prospecting Radius: <span id="radiusValue">500</span>m</label>
+                    <input type="range" id="radiusSlider" min="200" max="1000" value="500" step="50">
+                    <br>
+                    <label for="minSalesSlider">Min Sales: <span id="minSalesValue">3</span></label>
+                    <input type="range" id="minSalesSlider" min="1" max="20" value="3" step="1">
+                </div>
+                
+                <div class="legend">
+                    <div class="legend-title">Sales Density</div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background: #ff4757;"></div>
+                        <span>20+ sales (Hot zones)</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background: #ff7675;"></div>
+                        <span>10-19 sales</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background: #fdcb6e;"></div>
+                        <span>5-9 sales</span>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background: #6c5ce7;"></div>
+                        <span>3-4 sales</span>
+                    </div>
+                </div>
+                
+                <div id="map"></div>
+            </div>
+            
+            <div class="sidebar">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-number" id="totalSales">1,553</div>
+                        <div class="stat-label">Total Sales</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number" id="hotspotCount">20</div>
+                        <div class="stat-label">Hot Zones</div>
+                    </div>
+                </div>
+                
+                <div class="chart-section">
+                    <div class="chart-title">Top Arrondissements</div>
+                    <canvas id="arrondissementChart" width="300" height="200"></canvas>
+                </div>
+                
+                <div class="chart-section">
+                    <div class="chart-title">Priority Prospecting Areas</div>
+                    <div class="hotspot-list" id="hotspotList">
+                        <!-- Will be populated by JavaScript -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Initialize the map centered on Paris
+        const map = L.map('map').setView([48.8566, 2.3522], 12);
+        
+        // Add OpenStreetMap tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+        
+        // Get data from the analysis tool
+        async function loadSalesData() {
+            try {
+                const csvContent = await window.fs.readFile('data.csv', { encoding: 'utf8' });
+                
+                // Simple CSV parsing for browser
+                const lines = csvContent.split('\n');
+                const headers = lines[0].split(',').map(h => h.replace(/"/g, '').trim());
+                const data = [];
+                
+                for (let i = 1; i < lines.length; i++) {
+                    if (lines[i].trim()) {
+                        const values = lines[i].split(',');
+                        if (values.length >= 4) {
+                            const property = {
+                                order_id: parseInt(values[0]) || 0,
+                                address: values[1]?.replace(/"/g, '').trim() || '',
+                                lng: parseFloat(values[2]) || 0,
+                                lat: parseFloat(values[3]) || 0,
+                                booking_date: values[4]?.replace(/"/g, '').trim() || ''
+                            };
+                            
+                            // Filter for Paris coordinates
+                            if (property.lng >= 2.2 && property.lng <= 2.5 && 
+                                property.lat >= 48.8 && property.lat <= 48.9) {
+                                data.push(property);
+                            }
+                        }
+                    }
+                }
+                
+                return data;
+            } catch (error) {
+                console.error('Error loading data:', error);
+                return [];
+            }
+        }
+        
+        // Create clusters from sales data
+        function createClusters(data, gridSize = 0.004) {
+            const clusters = {};
+            
+            data.forEach(property => {
+                const gridX = Math.floor(property.lng / gridSize);
+                const gridY = Math.floor(property.lat / gridSize);
+                const key = `${gridX},${gridY}`;
+                
+                if (!clusters[key]) {
+                    clusters[key] = {
+                        count: 0,
+                        properties: [],
+                        centerLng: (gridX + 0.5) * gridSize,
+                        centerLat: (gridY + 0.5) * gridSize
+                    };
+                }
+                
+                clusters[key].count++;
+                clusters[key].properties.push(property);
+            });
+            
+            return Object.values(clusters);
+        }
+        
+        // Get circle color based on sales count
+        function getCircleColor(count) {
+            if (count >= 20) return '#ff4757';      // Hot red
+            if (count >= 10) return '#ff7675';      // Medium red
+            if (count >= 5) return '#fdcb6e';       // Orange
+            return '#6c5ce7';                       // Purple
+        }
+        
+        // Get circle size based on sales count
+        function getCircleSize(count) {
+            return Math.min(Math.max(count * 8, 20), 100);
+        }
+        
+        let circleMarkers = [];
+        let currentRadius = 500;
+        
+        // Update map with current settings
+        function updateMap(data, minSales) {
+            // Clear existing markers
+            circleMarkers.forEach(marker => map.removeLayer(marker));
+            circleMarkers = [];
+            
+            // Create clusters
+            const clusters = createClusters(data);
+            const filteredClusters = clusters.filter(cluster => cluster.count >= minSales);
+            
+            // Add cluster markers
+            filteredClusters.forEach(cluster => {
+                // Main cluster circle
+                const circle = L.circle([cluster.centerLat, cluster.centerLng], {
+                    color: getCircleColor(cluster.count),
+                    fillColor: getCircleColor(cluster.count),
+                    fillOpacity: 0.7,
+                    radius: getCircleSize(cluster.count),
+                    weight: 2
+                });
+                
+                // Prospecting radius circle
+                const radiusCircle = L.circle([cluster.centerLat, cluster.centerLng], {
+                    color: '#74b9ff',
+                    fillColor: 'transparent',
+                    fillOpacity: 0,
+                    radius: currentRadius,
+                    weight: 2,
+                    dashArray: '5, 10'
+                });
+                
+                const sampleAddress = cluster.properties[0].address.split(',')[0];
+                circle.bindPopup(`
+                    <strong>${cluster.count} sales in this area</strong><br>
+                    Near: ${sampleAddress}<br>
+                    Prospecting radius: ${currentRadius}m<br>
+                    <em>High-value prospecting zone</em>
+                `);
+                
+                circle.addTo(map);
+                radiusCircle.addTo(map);
+                circleMarkers.push(circle, radiusCircle);
+            });
+            
+            return filteredClusters;
+        }
+        
+        // Create arrondissement chart
+        function createArrondissementChart(data) {
+            const arrondissements = {};
+            
+            data.forEach(property => {
+                const match = property.address.match(/750(\d{2})/);
+                if (match) {
+                    const arr = parseInt(match[1]);
+                    arrondissements[arr] = (arrondissements[arr] || 0) + 1;
+                }
+            });
+            
+            const sortedData = Object.entries(arrondissements)
+                .sort(([,a], [,b]) => b - a)
+                .slice(0, 8);
+            
+            const ctx = document.getElementById('arrondissementChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: sortedData.map(([arr]) => `${arr}e`),
+                    datasets: [{
+                        data: sortedData.map(([,count]) => count),
+                        backgroundColor: [
+                            '#ff4757', '#ff7675', '#fdcb6e', '#6c5ce7',
+                            '#00b894', '#74b9ff', '#fd79a8', '#e84393'
+                        ],
+                        borderWidth: 2,
+                        borderColor: '#fff'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: { boxWidth: 12, padding: 8 }
+                        }
+                    }
+                }
+            });
+        }
+        
+        // Update hotspot list
+        function updateHotspotList(clusters) {
+            const hotspotList = document.getElementById('hotspotList');
+            const topClusters = clusters.sort((a, b) => b.count - a.count).slice(0, 15);
+            
+            hotspotList.innerHTML = topClusters.map((cluster, index) => {
+                const sampleAddress = cluster.properties[0].address.split(',')[0];
+                return `
+                    <div class="hotspot-item" onclick="map.setView([${cluster.centerLat}, ${cluster.centerLng}], 16)">
+                        <div class="hotspot-count">#${index + 1} - ${cluster.count} sales</div>
+                        <div class="hotspot-area">${sampleAddress}</div>
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        // Initialize everything
+        async function init() {
+            const data = await loadSalesData();
+            console.log('Loaded', data.length, 'properties');
+            
+            // Update stats
+            document.getElementById('totalSales').textContent = data.length.toLocaleString();
+            
+            // Initial map update
+            const clusters = updateMap(data, 3);
+            document.getElementById('hotspotCount').textContent = clusters.length;
+            
+            // Create chart
+            createArrondissementChart(data);
+            
+            // Update hotspot list
+            updateHotspotList(clusters);
+            
+            // Event listeners
+            document.getElementById('radiusSlider').addEventListener('input', (e) => {
+                currentRadius = parseInt(e.target.value);
+                document.getElementById('radiusValue').textContent = currentRadius;
+                const minSales = parseInt(document.getElementById('minSalesSlider').value);
+                updateMap(data, minSales);
+            });
+            
+            document.getElementById('minSalesSlider').addEventListener('input', (e) => {
+                const minSales = parseInt(e.target.value);
+                document.getElementById('minSalesValue').textContent = minSales;
+                const clusters = updateMap(data, minSales);
+                document.getElementById('hotspotCount').textContent = clusters.length;
+                updateHotspotList(clusters);
+            });
+        }
+        
+        // Start the application
+        init();
+    </script>
+</body>
+</html>
