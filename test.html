@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV File Reader Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .file-input {
+            margin-bottom: 20px;
+            padding: 20px;
+            border: 2px dashed #ccc;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .file-input input {
+            margin: 10px 0;
+        }
+        
+        .status {
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+            font-weight: bold;
+        }
+        
+        .success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        
+        .info {
+            background: #cce7ff;
+            color: #004085;
+            border: 1px solid #b8daff;
+        }
+        
+        .data-preview {
+            max-height: 400px;
+            overflow: auto;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            padding: 8px 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        th {
+            background: #f8f9fa;
+            font-weight: bold;
+            position: sticky;
+            top: 0;
+        }
+        
+        .test-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        
+        .btn-primary {
+            background: #007bff;
+            color: white;
+        }
+        
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+        
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+        
+        button:hover {
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 CSV File Reader & Tester</h1>
+        
+        <div class="test-buttons">
+            <button class="btn-primary" onclick="testFetch()">Test Fetch data.csv</button>
+            <button class="btn-secondary" onclick="testOtherNames()">Test Other Names</button>
+            <button class="btn-success" onclick="clearResults()">Clear Results</button>
+        </div>
+        
+        <div class="file-input">
+            <strong>📁 Or manually select your CSV file:</strong><br>
+            <input type="file" id="fileInput" accept=".csv" onchange="handleFileSelect(event)">
+            <p>Select your CSV file to preview its contents</p>
+        </div>
+        
+        <div id="status"></div>
+        
+        <div id="dataPreview" class="data-preview" style="display: none;">
+            <table id="dataTable">
+                <thead id="tableHeaders"></thead>
+                <tbody id="tableBody"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        function showStatus(message, type = 'info') {
+            const statusDiv = document.getElementById('status');
+            statusDiv.innerHTML = `<div class="status ${type}">${message}</div>`;
+        }
+        
+        function clearResults() {
+            document.getElementById('status').innerHTML = '';
+            document.getElementById('dataPreview').style.display = 'none';
+        }
+        
+        // Test fetching data.csv from same directory
+        async function testFetch() {
+            showStatus('🔄 Testing fetch for data.csv...', 'info');
+            
+            try {
+                const response = await fetch('data.csv');
+                console.log('Response:', response);
+                
+                if (response.ok) {
+                    const text = await response.text();
+                    showStatus(`✅ Successfully loaded data.csv! File size: ${text.length} characters`, 'success');
+                    parseAndDisplayCSV(text);
+                } else {
+                    showStatus(`❌ Failed to load data.csv. Status: ${response.status} ${response.statusText}`, 'error');
+                }
+            } catch (error) {
+                showStatus(`❌ Error loading data.csv: ${error.message}`, 'error');
+                console.error('Fetch error:', error);
+            }
+        }
+        
+        // Test other possible file names
+        async function testOtherNames() {
+            const possibleNames = [
+                'data.csv',
+                'RecordFredelion  Propre RecordFredelion 2.csv',
+                'RecordFredelion.csv',
+                'sales_data.csv',
+                'sales.csv',
+                'properties.csv'
+            ];
+            
+            showStatus('🔄 Testing multiple file names...', 'info');
+            
+            for (const fileName of possibleNames) {
+                try {
+                    console.log(`Testing: ${fileName}`);
+                    const response = await fetch(fileName);
+                    
+                    if (response.ok) {
+                        const text = await response.text();
+                        showStatus(`✅ Found file: ${fileName} (${text.length} characters)`, 'success');
+                        parseAndDisplayCSV(text);
+                        return; // Stop once we find a file
+                    }
+                } catch (error) {
+                    console.log(`Failed: ${fileName} - ${error.message}`);
+                }
+            }
+            
+            showStatus('❌ No CSV files found in the directory. Try using the file input below.', 'error');
+        }
+        
+        // Handle manual file selection
+        function handleFileSelect(event) {
+            const file = event.target.files[0];
+            
+            if (!file) return;
+            
+            if (file.type !== 'text/csv' && !file.name.endsWith('.csv')) {
+                showStatus('⚠️ Warning: Selected file is not a CSV file', 'error');
+                return;
+            }
+            
+            showStatus(`📁 Reading file: ${file.name} (${file.size} bytes)`, 'info');
+            
+            const reader = new FileReader();
+            
+            reader.onload = function(e) {
+                const text = e.target.result;
+                showStatus(`✅ File loaded successfully! ${file.name}`, 'success');
+                parseAndDisplayCSV(text);
+            };
+            
+            reader.onerror = function() {
+                showStatus('❌ Error reading file', 'error');
+            };
+            
+            reader.readAsText(file);
+        }
+        
+        // Parse and display CSV content
+        function parseAndDisplayCSV(csvText) {
+            try {
+                const lines = csvText.split('\n').filter(line => line.trim());
+                
+                if (lines.length === 0) {
+                    showStatus('❌ CSV file appears to be empty', 'error');
+                    return;
+                }
+                
+                // Parse headers
+                const headers = lines[0].split(',').map(header => header.replace(/"/g, '').trim());
+                
+                // Parse data rows (first 20 for preview)
+                const rows = [];
+                for (let i = 1; i < Math.min(lines.length, 21); i++) {
+                    const values = lines[i].split(',').map(value => value.replace(/"/g, '').trim());
+                    rows.push(values);
+                }
+                
+                // Display in table
+                displayTable(headers, rows);
+                
+                // Show summary
+                const summary = `
+                    📊 CSV Summary:<br>
+                    • Headers: ${headers.join(', ')}<br>
+                    • Total rows: ${lines.length - 1}<br>
+                    • Showing first: ${rows.length} rows<br>
+                    • Expected columns: order_id, address, lng, lat, booking_date
+                `;
+                
+                showStatus(summary, 'success');
+                
+            } catch (error) {
+                showStatus(`❌ Error parsing CSV: ${error.message}`, 'error');
+                console.error('Parse error:', error);
+            }
+        }
+        
+        // Display data in table
+        function displayTable(headers, rows) {
+            const tableHeaders = document.getElementById('tableHeaders');
+            const tableBody = document.getElementById('tableBody');
+            const dataPreview = document.getElementById('dataPreview');
+            
+            // Clear existing content
+            tableHeaders.innerHTML = '';
+            tableBody.innerHTML = '';
+            
+            // Add headers
+            const headerRow = document.createElement('tr');
+            headers.forEach(header => {
+                const th = document.createElement('th');
+                th.textContent = header;
+                headerRow.appendChild(th);
+            });
+            tableHeaders.appendChild(headerRow);
+            
+            // Add data rows
+            rows.forEach(row => {
+                const tr = document.createElement('tr');
+                row.forEach(cell => {
+                    const td = document.createElement('td');
+                    td.textContent = cell;
+                    tr.appendChild(td);
+                });
+                tableBody.appendChild(tr);
+            });
+            
+            // Show table
+            dataPreview.style.display = 'block';
+        }
+        
+        // Auto-test on page load
+        window.addEventListener('load', () => {
+            setTimeout(testFetch, 1000); // Auto-test after 1 second
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1608 @@
+order_id,address,lng,lat,booking_date
+523,"78 Rue Bonaparte, 75006 Paris, France",2.3326199,48.8505923,2022-11-06
+565,"6 Rue de la Grange Batelière, 75009 Paris, France",2.3422141,48.8731761,2022-11-17
+628,"5 Rue de Lobau, 75004 Paris, France",2.353139,48.8566071,2022-12-15
+669,"103 Bd Saint-Michel, 75005 Paris, France",2.339659,48.8439842,2023-02-02
+442,"90 Avenue Parmentier, 75011 Paris, France",2.3744448,48.8657093,2022-06-22
+920,"248 Rue de la Convention, 75015 Paris, France",2.3016641,48.8356243,2023-03-16
+970,"112 Rue Houdan, 92330 Sceaux, France",2.290868,48.7791134,2023-03-31
+2314,"48 Rue de Vouillé, 75015 Paris, France",2.3073624,48.8338543,2024-10-14
+3144,"28 Rue de Cronstadt, 75015 Paris, France",2.3013445,48.8339102,2025-07-15
+514,"5 Rue Jobbé Duval, 75015 Paris, France",2.2993991,48.8350114,2022-10-06
+530,"26 Rue des Favorites, 75015 Paris, France",2.3046412,48.8374701,2022-10-19
+546,"4 Rue Eliane Jeannin-Garreau, 92130 Issy-les-Moulineaux, France",2.2800643,48.8313409,2022-11-03
+607,"203 Rue de la Convention, 75015 Paris, France",2.2987711,48.8367428,2022-11-26
+647,"4 Rue Eliane Jeannin-Garreau, 92130 Issy-les-Moulineaux, France",2.2800643,48.8313409,2022-12-16
+663,"62 Rue de Dantzig, 75015 Paris, France",2.2967628,48.831683,2022-12-23
+664,"221 Rue de la Convention, 75015 Paris, France",2.3005073,48.8361966,2022-12-23
+691,"42 Rue du Hameau, 75015 Paris, France",2.2869428,48.8338938,2023-01-12
+885,"28 Rue Eugène Millon, 75015 Paris, France",2.2920216,48.8375244,2023-02-27
+911,"199 Rue de la Convention, 75015 Paris, France",2.2978473,48.8369774,2023-03-09
+1002,"14 Rue Corbon, 75015 Paris, France",2.302754,48.8361502,2023-04-18
+1004,"201 Rue de Vaugirard, 75015 Paris, France",2.3108971,48.8417012,2023-04-18
+1089,"14 Rue des Sablons, 75116 Paris, France",2.2833262,48.8662205,2023-05-13
+1099,"24 Rue Jean Bleuzen, 92170 Vanves, France",2.2924402,48.8210369,2023-05-19
+1168,"66 Rue d'Alleray, 75015 Paris, France",2.3054852,48.8361812,2023-06-08
+1183,"64 Rue Brancion, 75015 Paris, France",2.3032647,48.8326233,2023-06-13
+1217,"57 Rue de la Procession, 75015 Paris, France",2.3099879,48.8365729,2023-06-17
+1218,"57 Rue de la Procession, 75015 Paris, France",2.3099879,48.8365729,2023-06-16
+1244,"28 Rue Eugène Millon, 75015 Paris, France",2.2920216,48.8375244,2023-06-22
+1245,"24 Rue Jean Bleuzen, 92170 Vanves, France",2.2924402,48.8210369,2023-06-22
+1284,"28 Rue Eugène Millon, 75015 Paris, France",2.2920216,48.8375244,2023-07-07
+1295,"26 Rue des Favorites, 75015 Paris, France",2.3046412,48.8374701,2023-07-10
+1298,"29 Rue Dombasle, 75015 Paris, France",2.2983642,48.8360346,2023-07-11
+1332,"16 Rue Balard, 75015 Paris, France",2.2766976,48.8445633,2023-07-21
+1343,"29 rue Dombasle, 75015 Paris, France",2.2983642,48.8360346,2023-07-27
+1409,"64 Rue Brancion, 75015 Paris, France",2.3032647,48.8326233,2023-09-12
+1421,"28 Rue Eugène Millon, 75015 Paris, France",2.2920216,48.8375244,2023-09-18
+1450,"258 Rue Lecourbe, 75015 Paris, France",2.2906559,48.8390936,2023-09-27
+1455,"30 Rue de Dantzig, 75015 Paris, France",2.2988052,48.8339027,2023-09-29
+1509,"14 Rue de Thionville, 75019 Paris, France",2.3831224,48.8887237,2023-10-19
+1607,"11 Rue François Villon, 75015 Paris, France",2.2997001,48.8382345,2023-12-02
+1621,"15bis Rue Jobbé Duval, Paris, France",2.2990077,48.8345081,2023-12-07
+1674,"12 Rue Eugène Millon, 75015 Paris, France",2.2931194,48.8379986,2024-01-11
+1696,"15 bis Rue Kléber, 92130 Issy-les-Moulineaux, France",2.2731422,48.8261744,2024-01-18
+1729,"8 Rue des Favorites, 75015 Paris, France",2.3028302,48.839254,2024-01-29
+1738,"23 Rue Traversière, 92100 Boulogne-Billancourt, France",2.2453266,48.82491,2024-02-01
+1778,"4 Rue Georges Duhamel, 75015 Paris, France",2.3124811,48.8365733,2024-02-17
+1781,"15 Rue Jobbé Duval, 75015 Paris, France",2.2990897,48.8345944,2024-02-20
+1933,"62 Rue Labrouste, 75015 Paris, France",2.3067548,48.8327418,2024-04-22
+1975,"103 Rue de l'Abbé Groult, 75015 Paris, France",2.2998243,48.837603,2024-05-13
+2007,"20 Rue Marcellin Berthelot, 92170 Vanves, France",2.288158,48.825023,2024-05-27
+2087,"52 bis Rue Labrouste, 75015 Paris, France",2.3073272,48.8334158,2024-06-28
+2109,"26 Rue Vaugelas, 75015 Paris, France",2.2933128,48.8337458,2024-07-05
+2184,"5 Cr des Longs Prés, 92100 Boulogne-Billancourt, France",2.2488854,48.8282382,2024-08-24
+2240,"29 Rue Victor Duruy, 75015 Paris, France",2.3000237,48.8365827,2024-09-26
+2294,"3 Rue Louis Rolland, Montrouge, France",2.3239166,48.8162145,2024-10-05
+2296,"7 Rue de la Solidarité, Montrouge, France",2.3217077,48.814387,2024-10-05
+2388,"114 Rue de l'Abbé Groult, 75015 Paris, France",2.3003789,48.8369128,2024-11-21
+2438,"36 Rue de Chambéry, 75015 Paris, France",2.302585,48.8303358,2024-12-06
+2445,"14 Rue Yvart, 75015 Paris, France",2.3020896,48.836853,2024-12-09
+2553,"14 Rue Yvart, 75015 Paris, France",2.3020896,48.836853,2025-01-14
+2651,"230 Rue de la Convention, 75015 Paris, France",2.2999664,48.8360617,2025-02-18
+2652,"15 Rue Labrouste, 75015 Paris, France",2.3092335,48.83521,2025-02-18
+2698,"33 Rue du Hameau, 75015 Paris, France",2.2872825,48.8338109,2025-03-06
+2708,"5 Rue du Bocage, 75015 Paris, France",2.3052726,48.8307133,2025-03-07
+2780,"221 Rue de la Convention, 75015 Paris, France",2.3006106,48.8362419,2025-03-31
+2842,"179 Rue de la Convention, 75015 Paris, France",2.2951832,48.8379675,2025-04-25
+2860,"230 Rue de la Convention, 75015 Paris, France",2.2999664,48.8360617,2025-05-02
+3017,"8 All. Joseph Recamier, 75015 Paris, France",2.2969819,48.8352919,2025-06-10
+3038,"8 All. Joseph Recamier, 75015 Paris, France",2.2969819,48.8352919,2025-06-13
+3063,"23 Rue Olivier de Serres, 75015 Paris, France",2.2971315,48.835841,2025-06-19
+3080,"5 Vla Robert Lindet, 75015 Paris, France",2.2965345,48.8335623,2025-06-24
+3081,"9 Rue Fourcade, 75015 Paris, France",2.2982227,48.8373316,2025-06-24
+3099,"27 Rue Thiboumery, 75015 Paris, France",2.3041415,48.8353181,2025-06-26
+3116,"10 Rue Rosenwald, 75015 Paris, France",2.3059589,48.8336148,2025-07-05
+3119,"10 Rue Firmin Gillot, 75015 Paris, France",2.2904388,48.8323726,2025-07-05
+3162,"18 Rue Yvart, 75015 Paris, France",2.3024448,48.836831,2025-07-25
+3174,"27 Rue Vaugelas, 75015 Paris, France",2.2936374,48.8335632,2025-07-29
+3184,"221 Rue de la Convention, 75015 Paris, France",2.3006106,48.8362419,2025-08-01
+3195,"28 Rue Rosenwald, 75015 Paris, France",2.3055225,48.8326553,2025-08-06
+599,"39 Rue Alain Chartier, 75015 Paris, France",2.2970567,48.837277,2022-11-25
+606,"48 Rue de Vouillé, 75015 Paris, France",2.3073897,48.8338103,2022-11-28
+624,"49 Rue Cambronne, 75015 Paris, France",2.3023967,48.8446096,2022-12-02
+630,"49 Rue Cambronne, 75015 Paris, France",2.3023967,48.8446096,2022-12-06
+646,"230 Rue de la Convention, 75015 Paris, France",2.2999664,48.8360617,2022-12-17
+666,"230 Rue de la Convention, 75015 Paris, France",2.2999664,48.8360617,2022-12-26
+882,"5 Rue Dombasle, 75015 Paris, France",2.2964941,48.8367296,2023-02-24
+909,"69 Rue Brancion, 75015 Paris, France",2.3033342,48.8323615,2023-03-08
+1014,"17 Rue Gerbert, 75015 Paris, France",2.2989709,48.8392288,2023-04-18
+1034,"44 Rue la Quintinie, 75015 Paris, France",2.3028427,48.8372114,2023-04-19
+1036,"165 Rue de la Convention, Paris, France",2.2939861,48.8385396,2023-04-20
+1119,"22 rue Marmontel, Paris, France",2.2992377,48.8366085,2023-05-25
+1120,"22 rue Marmontel, Paris, France",2.2992377,48.8366085,2023-05-25
+1121,"22 rue Marmontel, Paris, France",2.2992377,48.8366085,2023-05-25
+1176,"230 Rue de la Convention, 75015 Paris, France",2.2999664,48.8360617,2023-06-09
+1223,"231 Rue Lecourbe, 75015 Paris, France",2.2929057,48.8392618,2023-06-20
+1302,"230 Rue de la Convention, 75015 Paris, France",2.2999664,48.8360617,2023-07-13
+1306,"44 Rue la Quintinie, 75015 Paris, France",2.3028427,48.8372114,2023-07-12
+1407,"2 Rue Sainte-Lucie, 75015 Paris, France",2.2858641,48.8448182,2023-09-13
+1425,"Paris, France",2.3522219,48.856614,2023-09-18
+1454,"225 Rue de la Croix Nivert, 75015 Paris, France",2.2898945,48.8354876,2023-09-27
+1529,"22 Rue Marmontel, 75015 Paris, France",2.2992377,48.8366085,2023-10-31
+1560,"14 Rue Félix Faure, Paris, France",2.285088,48.8388152,2023-11-07
+1683,"21 Quai de Stalingrad, 92100 Boulogne-Billancourt, France",2.2437463,48.8237968,2024-01-11
+1721,"56 Rue Santos-Dumont, 75015 Paris, France",2.3038216,48.8322499,2024-01-24
+1754,"5 Rue de Cronstadt, 75015 Paris, France",2.3026601,48.8349546,2024-02-06
+1775,"4 Rue de Dantzig, 75015 Paris, France",2.3003928,48.8352326,2024-02-19
+1790,"4 Sq. Desnouettes, 75015 Paris, France",2.2832101,48.8350769,2024-03-06
+1827,"35 Rue des Morillons, 75015 Paris, France",2.2990328,48.8334664,2024-03-07
+1924,"22 Rue Marmontel, 75015 Paris, France",2.2992377,48.8366085,2024-04-15
+1925,"22 Rue Marmontel, 75015 Paris, France",2.2992377,48.8366085,2024-04-15
+2003,"6 Rue Marmontel, 75015 Paris, France",2.30064,48.8373902,2024-05-25
+2025,"214 Rue de la Convention, 75015 Paris, France",2.2981664,48.8365693,2024-06-05
+2083,"6 Rue de Cadix, 75015 Paris, France",2.2886056,48.8342777,2024-06-27
+2149,"35 Rue des Morillons, 75015 Paris, France",2.2990328,48.8334664,2024-07-22
+2163,"19 Rue Sébastien Mercier, 75015 Paris, France",2.2784768,48.8447096,2024-07-30
+2171,"19 Rue Sébastien Mercier, 75015 Paris, France",2.2784768,48.8447096,2024-08-06
+2216,"28 Rue Rosenwald, 75015 Paris, France",2.3055349,48.8326532,2024-09-20
+2321,"20 Rue Chardon Lagache, 75016 Paris, France",2.2662673,48.8447651,2024-10-17
+2327,"58 Rue Chardon Lagache, 75016 Paris, France",2.2645104,48.84283,2024-10-23
+2345,"45 Rue de Vouillé, 75015 Paris, France",2.3080263,48.8340911,2024-10-24
+2477,"42 Rue Rosenwald, 75015 Paris, France",2.3052545,48.8321235,2024-12-20
+2554,"49 Rue la Quintinie, 75015 Paris, France",2.302761,48.8367743,2025-01-16
+2627,"123 Rue de la Convention, 75015 Paris, France",2.2892933,48.8406468,2025-02-12
+2704,"17 Rue Bausset, 75015 Paris, France",2.2981682,48.8390266,2025-03-07
+2991,"6 Rue Marmontel, 75015 Paris, France",2.300661,48.8373899,2025-06-03
+3072,"35 Rue des Morillons, 75015 Paris, France",2.2990267,48.8334597,2025-06-20
+525,"81 Rue de Verdun, 92150 Suresnes, France",2.2307436,48.875195,2022-10-17
+538,"33 Rue de Vouillé, 75015 Paris, France",2.3066462,48.8344042,2022-10-26
+577,"301 Rue de Vaugirard, 75015 Paris, France",2.3001252,48.8388743,2022-11-16
+687,"90 Rue Castagnary, 75015 Paris, France",2.3065177,48.8311547,2023-01-09
+835,"34 Rue Dombasle, 75015 Paris, France",2.2987561,48.8357319,2023-02-06
+881,"15bis Rue Jobbé Duval, 75015 Paris, France",2.2990077,48.8345081,2023-02-24
+884,"146 Rue de la Convention, 75015 Paris, France",2.2909147,48.8395956,2023-02-27
+918,"34 rue Dombasle, 75015 Paris, France",2.2987561,48.8357319,2023-03-10
+931,"8 Bd de la Reine, 78000 Versailles, France",2.1244339,48.809392,2023-03-17
+1104,"113 Rue de l'Abbé Groult, 75015 Paris, France",2.3004937,48.83716,2023-05-24
+1133,"27 Rue Thiboumery, 75015 Paris, France",2.3041804,48.8352966,2023-06-01
+1147,"8 Vla Haussmann, 92130 Issy-les-Moulineaux, France",2.2543484,48.8199879,2023-06-05
+1208,"77 Rue des Morillons, 75015 Paris, France",2.3034302,48.8321162,2023-06-15
+1226,"30 Rue Lacordaire, 75015 Paris, France",2.2829712,48.8426948,2023-06-21
+1289,"8 Villa Haussmann, Issy-les-Moulineaux, France",2.2543484,48.8199879,2023-07-06
+1290,"27 Rue Thiboumery, Paris, France",2.3041804,48.8352966,2023-07-06
+1296,"36 Rue du Dr Roux, 75015 Paris, France",2.3099144,48.8400507,2023-07-11
+1327,"12 Rue Morère, 75014 Paris, France",2.3222631,48.8246794,2023-07-22
+1418,"77 Rue des Morillons, 75015 Paris, France",2.3034302,48.8321162,2023-09-15
+1435,"50 Rue des Morillons, 75015 Paris, France",2.3034447,48.8319474,2023-10-03
+1439,"18 Pl. Adolphe Chérioux, 75015 Paris, France",2.3006558,48.8395026,2023-09-22
+1477,"288 Rue de Vaugirard, 75015 Paris, France",2.2986362,48.8385495,2023-10-07
+1489,"113 Rue de l'Abbé Groult, Paris, France",2.3004937,48.83716,2023-10-12
+1608,"50 Rue des Morillons, 75015 Paris, France",2.3034447,48.8319474,2023-12-02
+1650,"105 Rue de la Convention, 75015 Paris, France",2.287755,48.8412868,2023-12-16
+1714,"107 Rue Leblanc, 75015 Paris, France",2.2810791,48.8364766,2024-01-24
+1883,"8 Rue des Morillons, 75015 Paris, France",2.2962912,48.8341114,2024-04-05
+1895,"3 Rue d'Alleray, 75015 Paris, France",2.3004993,48.8389372,2024-04-05
+1916,"177 Bd Lefebvre, 75015 Paris, France",2.3025068,48.8285575,2024-04-12
+1946,"39 Rue Brancion, 75015 Paris, France",2.3046824,48.8339429,2024-04-25
+1969,"238 Rue de la Convention, 75015 Paris, France",2.3006038,48.8358131,2024-05-10
+2129,"41 Rue Brancion, 75015 Paris, France",2.3046532,48.8338155,2024-07-13
+2143,"59 Rue Brancion, 75015 Paris, France",2.3038726,48.8328779,2024-07-20
+2170,"24 Rue Olivier de Serres, 75015 Paris, France",2.2970701,48.8360796,2024-08-02
+2172,"24 Rue Olivier de Serres, 75015 Paris, France",2.2970701,48.8360796,2024-08-08
+2179,"19 Rue Duranton, 75015 Paris, France",2.2863682,48.8400933,2024-08-16
+2219,"13 Rue Castagnary, 75015 Paris, France",2.310027,48.8353985,2024-09-19
+2255,"33 Rue Robert Lindet, 75015 Paris, France",2.2974049,48.8327508,2024-10-04
+2282,"31 Bd Lefebvre, 75015 Paris, France",2.2907221,48.8319783,2024-10-12
+2310,"27 Rue Thiboumery, 75015 Paris, France",2.3041804,48.8352966,2024-10-11
+2363,"31 Bd Lefebvre, 75015 Paris, France",2.2907221,48.8319783,2024-10-31
+2382,"191 Rue Lecourbe, 75015 Paris, France",2.2963006,48.8405468,2024-11-21
+2392,"57 Rue de la Procession, 75015 Paris, France",2.3099879,48.8365729,2024-11-20
+2394,"9 Rue François Villon, 75015 Paris, France",2.2998442,48.8383889,2024-11-22
+2465,"236 Rue de la Convention, 75015 Paris, France",2.3003702,48.8359426,2024-12-13
+2573,"51 Rue d'Alleray, 75015 Paris, France",2.3049249,48.837033,2025-01-21
+2637,"227 Rue de la Convention, 75015 Paris, France",2.3010926,48.8360274,2025-02-13
+2638,"22 Rue François Villon, 75015 Paris, France",2.2985658,48.8378987,2025-02-14
+2653,"236 Rue de la Convention, 75015 Paris, France",2.3003702,48.8359426,2025-02-21
+2712,"19 Rue de Dantzig, 75015 Paris, France",2.2998873,48.8342744,2025-03-12
+2741,"35 Rue des Morillons, 75015 Paris, France",2.2990267,48.8334597,2025-03-20
+2873,"34 Rue des Favorites, 75015 Paris, France",2.3055241,48.8369689,2025-05-09
+2965,"37 Rue de Vouillé, 75015 Paris, France",2.3071714,48.8343401,2025-05-27
+3023,"53 Rue du Théâtre, 75015 Paris, France",2.289363,48.8485062,2025-06-06
+3053,"19 Rue Ernest Renan, 92130 Issy-les-Moulineaux, France",2.2812595,48.8280555,2025-06-17
+3096,"122 Rue Castagnary, 75015 Paris, France",2.3045287,48.8300085,2025-06-27
+3105,"49 Rue d'Alleray, 75015 Paris, France",2.3046638,48.8369388,2025-07-01
+3177,"67 Rue Brancion, 75015 Paris, France",2.3033523,48.832381,2025-07-30
+3183,"285 Rue de Vaugirard, 75015 Paris, France",2.3010427,48.8393047,2025-08-04
+3186,"35 Rue des Morillons, 75015 Paris, France",2.2990267,48.8334597,2025-08-01
+529,"30 Rue de l'Abbé Groult, 75015 Paris, France",2.2945486,48.8417766,2022-10-18
+531,"7 Pass. Alexandre, 75015 Paris, France",2.3157067,48.8401617,2022-10-24
+532,"24 Rue Ferdinand Fabre, 75015 Paris, France",2.297471,48.8380369,2022-10-22
+543,"66 Rue Jean Jaurès, 92170 Vanves, France",2.292994,48.8255002,2022-10-28
+556,"35 Rue de Dantzig, 75015 Paris, France",2.2990431,48.8334624,2022-11-04
+626,"32 Rue de Cronstadt, 75015 Paris, France",2.3012738,48.8337519,2022-12-05
+694,"115 Rue de la Croix Nivert, 75015 Paris, France",2.2940123,48.8421172,2023-01-11
+716,"22 Rue Marmontel, 75015 Paris, France",2.2992377,48.8366085,2023-01-19
+717,"22 Rue Marmontel, 75015 Paris, France",2.2992377,48.8366085,2023-01-19
+732,"22 rue Marmontel, 75015 Paris, France",2.2992377,48.8366085,2023-01-23
+733,"22 rue Marmontel, 75015 Paris, France",2.2992377,48.8366085,2023-01-23
+826,"40 Rue de Dantzig, 75015 Paris, France",2.2982173,48.8331952,2023-02-03
+842,"104 Boulevard de Sébastopol, Paris, France",2.3538313,48.8680078,2023-02-07
+857,"5 BIS Rue Gager-Gabillot, 75015 Paris, France",2.306612,48.8376867,2023-02-14
+897,"4 All. Germain Petitou, 95210 Saint-Gratien, France",2.2814393,48.9610298,2023-03-03
+899,"298 Rue de Vaugirard, 75015 Paris, France",2.2979772,48.8382181,2023-03-02
+965,"35 Rue du Dr Roux, 75015 Paris, France",2.310161,48.8398532,2023-03-27
+996,"83 Rue de l'Abbé Groult, 75015 Paris, France",2.2980787,48.8387335,2023-04-17
+1005,"19 Rue Ferdinand Fabre, 75015 Paris, France",2.2974683,48.8382345,2023-04-18
+1009,"14 Rue de la Folie-Regnault, 75011 Paris, France",2.3864799,48.8570571,2023-04-19
+1043,"83 Rue de l'Abbé Groult, 75015 Paris, France",2.2980787,48.8387335,2023-04-21
+1052,"5 BIS Rue Gager-Gabillot, 75015 Paris, France",2.306612,48.8376867,2023-04-25
+1055,"35 Rue de Dantzig, 75015 Paris, France",2.2990431,48.8334624,2023-04-26
+1068,"84 Rue Jean Jaurès, 92170 Vanves, France",2.2911377,48.8258956,2023-05-03
+1095,"3 Rue de Chazelles, 75017 Paris, France",2.3037264,48.8797069,2023-05-17
+1179,"201 Rue de la Convention, Paris, France",2.2987502,48.8369202,2023-06-08
+1180,"201 Rue de la Convention, Paris, France",2.2987502,48.8369202,2023-06-09
+1228,"6 Sq. Frédéric Vallois, 75015 Paris, France",2.3035267,48.8356064,2023-06-26
+1229,"230 Rue de la Convention, 75015 Paris, France",2.2999664,48.8360617,2023-06-30
+1258,"36 Rue de Chambéry, 75015 Paris, France",2.302585,48.8303358,2023-06-29
+1277,"5 Cité Falguière, 75015 Paris, France",2.3124361,48.8403988,2023-07-06
+1291,"22 Rue Vaugelas, 75015 Paris, France",2.2934866,48.8338412,2023-07-07
+1346,"22 Rue Vaugelas, 75015 Paris, France",2.2934866,48.8338412,2023-07-28
+1430,"67 Bd de Reuilly, 75012 Paris, France",2.3990697,48.839866,2023-09-26
+1460,"22 Rue St Charles, 75015 Paris, France",2.2891265,48.8509855,2023-09-30
+1501,"36 Rue de Chambéry, 75015 Paris, France",2.302585,48.8303358,2023-10-17
+1519,"36 Rue du Moulin des Prés, 75013 Paris, France",2.3528997,48.8272315,2023-10-24
+1549,"138 Av. de Villiers, 75017 Paris, France",2.2941316,48.8855271,2023-11-06
+1567,"Rue Jobbé Duval, 75015 Paris, France",2.2987797,48.8347228,2023-11-10
+1651,"19 Rue de Dantzig, 75015 Paris, France",2.2998294,48.8342958,2023-12-16
+1770,"21 Rue de Vouillé, 75015 Paris, France",2.305076,48.8348796,2024-02-13
+1780,"5 Rue Jeanne Hachette, 75015 Paris, France",2.2986133,48.8410077,2024-02-22
+1786,"15 Rue Georges Pitard, 75015 Paris, France",2.3109038,48.8349267,2024-02-27
+1892,"48 Rue Paul Barruel, Paris, France",2.3059283,48.8369939,2024-04-03
+1914,"113 Rue de l'Abbé Groult, 75015 Paris, France",2.3004937,48.83716,2024-04-11
+1921,"106 bis Rue de Lourmel, 75015 Paris, France",2.2855534,48.8434523,2024-04-13
+1996,"2 Rue Henri Bocquillon, 75015 Paris, France",2.2903483,48.8417629,2024-05-25
+2014,"2 Rue Henri Bocquillon, 75015 Paris, France",2.2903483,48.8417629,2024-05-28
+2053,"7 Rue de Vouillé, 75015 Paris, France",2.3037048,48.8352476,2024-06-12
+2064,"58 Rue de la Fontaine au Roi, 75011 Paris, France",2.3738958,48.8680803,2024-06-15
+2065,"5 Cité Falguière, 75015 Paris, France",2.3124361,48.8403988,2024-06-15
+2074,"17 Rue Olivier de Serres, 75015 Paris, France",2.2975458,48.8362719,2024-06-25
+2103,"221 Rue de la Convention, 75015 Paris, France",2.3005073,48.8361966,2024-07-05
+2174,"13 Rue Fourcade, 75015 Paris, France",2.2984761,48.8371596,2024-08-07
+2175,"2 Rue Brancion, 75015 Paris, France",2.3062183,48.8361815,2024-08-07
+2177,"6 Square Frédéric Vallois, Paris, France",2.3035301,48.8356459,2024-08-10
+2213,"3 Rue Fizeau, 75015 Paris, France",2.3029447,48.8312395,2024-09-13
+2247,"10 Rue des Morillons, 75015 Paris, France",2.2964284,48.8341476,2024-09-28
+2291,"1 Rue Duvergier, 75019 Paris, France",2.3780036,48.8887271,2024-10-05
+2304,"1 Rue Duvergier, 75019 Paris, France",2.3780036,48.8887271,2024-10-11
+3070,"23 Rue des Morillons, 75015 Paris, France",2.2977549,48.8339236,2025-06-25
+3158,"19 Rue de Dantzig, 75015 Paris, France",2.2998873,48.8342744,2025-07-22
+533,"234 Rue de la Convention, 75015 Paris, France",2.3001789,48.8359788,2022-10-22
+621,"234 Rue de la Convention, 75015 Paris, France",2.3001789,48.8359788,2022-12-02
+627,"27 Rue Desnouettes, 75015 Paris, France",2.290207,48.835908,2022-12-06
+638,"114 Rue de l'Abbé Groult, Paris, France",2.3003932,48.8369261,2022-12-10
+673,"13 Rue Olier, 75015 Paris, France",2.291316,48.8353292,2023-01-03
+888,"5 Rue Fourcade, 75015 Paris, France",2.2979795,48.8375233,2023-02-27
+968,"50 Rue de Dantzig, 75015 Paris, France",2.297387,48.8325191,2023-03-30
+980,"5 Rue Chauvelot, 75015 Paris, France",2.3021371,48.8294975,2023-04-04
+997,"199 Rue de la Convention, 75015 Paris, France",2.2978473,48.8369774,2023-04-17
+1006,"27 Rue Desnouettes, 75015 Paris, France",2.290207,48.835908,2023-04-14
+1017,"199 Rue de la Convention, Paris, France",2.2978473,48.8369774,2023-04-18
+1046,"199 Rue de la Convention, 75015 Paris, France",2.2978473,48.8369774,2023-04-24
+1047,"114 Rue de l'Abbé Groult, Paris, France",2.3003932,48.8369261,2023-04-24
+1071,"11 Rue Vaugelas, 75015 Paris, France",2.2946192,48.8342318,2023-05-02
+1232,"22 Rue Labrouste, 75015 Paris, France",2.3091317,48.8354252,2023-06-23
+1233,"22 Rue Labrouste, 75015 Paris, France",2.3091317,48.8354252,2023-06-24
+1293,"49 Rue Henri Martin, 92170 Vanves, France",2.2893562,48.8249024,2023-07-07
+1294,"49 Rue Henri Martin, 92170 Vanves, France",2.2893562,48.8249024,2023-07-07
+1303,"40 Rue d'Alleray, Paris, France",2.302709,48.83674,2023-07-12
+1324,"40 Rue d'Alleray, Paris, France",2.302709,48.83674,2023-07-17
+1355,"22 Rue Labrouste, 75015 Paris, France",2.3091317,48.8354252,2023-07-31
+1414,"40 Rue d'Alleray, 75015 Paris, France",2.302709,48.83674,2023-09-15
+1416,"5 Rue Fizeau, 75015 Paris, France",2.3029035,48.8312099,2023-09-15
+1447,"25 Rue du Hameau, 75015 Paris, France",2.2878605,48.8341561,2023-09-27
+1485,"5 Rue Fizeau, 75015 Paris, France",2.3029035,48.8312099,2023-10-11
+1525,"3 Rue Danton, 92170 Vanves, France",2.2976586,48.824318,2023-10-24
+1550,"33 Rue du Hameau, Paris, France",2.2872825,48.8338109,2023-11-03
+1602,"23 Rue Labrouste, 75015 Paris, France",2.3088954,48.8347623,2023-11-25
+1610,"15 Rue Labrouste, 75015 Paris, France",2.3092269,48.8351308,2023-12-02
+1707,"39 Rue Saint-Fargeau, 75020 Paris, France",2.4035311,48.8718305,2024-01-27
+1737,"19 Rue Corbon, 75015 Paris, France",2.302914,48.8356186,2024-01-31
+1759,"19 Rue Corbon, 75015 Paris, France",2.302914,48.8356186,2024-02-07
+1830,"34 Rue Danton, Vanves, France",2.2994231,48.8219116,2024-03-07
+1910,"22 Rue de Chambéry, 75015 Paris, France",2.3034121,48.8311121,2024-04-10
+1920,"22 rue Marmontel, Paris, France",2.2992377,48.8366085,2024-04-10
+2050,"68 Rue Vauvenargues, 75018 Paris, France",2.3305832,48.896475,2024-06-12
+2078,"15 Rue Labrouste, 75015 Paris, France",2.3092356,48.8351016,2024-06-25
+2126,"44 Rue Vasco de Gama, 75015 Paris, France",2.2836091,48.8366318,2024-07-13
+2159,"52 bis Rue Labrouste, 75015 Paris, France",2.3073272,48.8334158,2024-07-25
+2212,"32 Rue de Poitou, 75003 Paris, France",2.3622293,48.8617711,2024-09-16
+2346,"13 Rue Charles Floquet, Montrouge, France",2.319076,48.8118963,2024-11-06
+2349,"256 Rue de Belleville, Paris, France",2.4011473,48.8755575,2024-10-24
+2368,"87 Rue Lamarck, Paris, France",2.3355179,48.8903015,2024-11-12
+2416,"21 Rue Chappe, Paris, France",2.3417792,48.8851033,2024-12-02
+2650,"2 Rue Berthe, 93400 Saint-Ouen-sur-Seine, France",2.3389346,48.9083954,2025-02-17
+2679,"2 Rue Berthe, 93400 Saint-Ouen-sur-Seine, France",2.3389346,48.9083954,2025-02-24
+2778,"17 Rue de la fontaine du but, 75018",2.2738933,48.8516402,2025-03-28
+2779,"69 Rue Caulaincourt, Paris, France",2.3363825,48.889825,2025-03-28
+2801,"47 Rue Caulaincourt, Paris, France",2.3344224,48.8891857,2025-04-08
+2836,"15 Rue André del Sarte, Paris, France",2.3458964,48.8855464,2025-04-18
+2869,"81 Rue Caulaincourt, 75018 Paris, France",2.3373259,48.8897584,2025-05-06
+2874,"6 rue Durantin, Paris, France",2.3374126,48.8853486,2025-05-14
+2877,"39 rue Durantin, Paris, France",2.3352585,48.8866784,2025-05-16
+2923,"81 Rue Belliard, Paris, France",2.3416761,48.8970605,2025-05-13
+2934,"1 Rue des Abbesses, Paris, France",2.3395424,48.8836475,2025-05-22
+2963,"152 Rue Marcadet, Paris, France",2.3383726,48.8915314,2025-05-27
+2999,"85 Rue de la Tombe Issoire, Paris, France",2.3324699,48.8272171,2025-06-04
+3013,"29 Avenue Junot, Paris, France",2.3353511,48.8887115,2025-06-10
+3104,"73 Rue Caulaincourt, 75018 Paris, France",2.3367639,48.8896513,2025-06-27
+3110,"17 Rue Victor Duruy, Paris, France",2.2992586,48.8371186,2025-07-01
+3141,"68 Rue Damrémont, Paris, France",2.3348187,48.891011,2025-07-11
+3188,"6 Rue d'Orchampt, Paris, France",2.337816,48.8866622,2025-08-01
+1201,"14 Rue Duban, 75016 Paris, France",2.2778544,48.8570661,2023-06-15
+3111,"1 Bd Bineau, 92300 Levallois-Perret, France",2.2851712,48.8862643,2025-07-02
+3156,"159 Rue Danton, 92300 Levallois-Perret, France",2.276926,48.897734,2025-07-22
+1586,"8 Rue Myrha, 75018 Paris, France",2.3556355,48.8873778,2023-11-21
+573,"104 Boulevard de Sébastopol, 5 ème etage",2.3538313,48.8680078,2022-11-09
+740,"26 rue de Turin, 
+75008 Paris, France",2.3247448,48.8817381,2023-01-30
+865,"5 Rue Joseph de Maistre, 75018 Paris, France",2.3343235,48.8859321,2023-02-17
+964,"123 Av. de Clichy, 75017 Paris, France",2.3209106,48.89004,2023-03-28
+1523,"37 Bd de la Chapelle, 75010 Paris, France",2.3588169,48.8841881,2023-10-26
+1526,"18 Rue du Landy, 92110 Clichy, France",2.3052335,48.9048311,2023-10-27
+1527,"18 Rue du Landy, 92110 Clichy, France",2.3052335,48.9048311,2023-10-27
+1720,"16 Rue de Téhéran, 75008 Paris, France",2.3128295,48.8771817,2024-01-26
+1906,"4 Sq. Léon Blum, 92800 Puteaux, France",2.2477203,48.8830894,2024-04-10
+2048,"17 Rue de Berne, 75008 Paris, France",2.3230418,48.8808495,2024-06-10
+2671,"4 Bd Saint-Germain, 75005 Paris, France",2.3553795,48.8495446,2025-02-26
+534,"27 Rue de Liège, 75008 Paris, France",2.3262166,48.8792593,2022-10-24
+541,"152 Rue de Saussure, 75017 Paris, France",2.3065264,48.8897482,2022-10-26
+566,"51 Av. de Paris, 78000 Versailles, France",2.14009,48.7999873,2022-11-08
+600,"51 Av. de Paris, 78000 Versailles, France",2.14009,48.7999873,2022-11-08
+620,"27 Rue de Liège, 75008 Paris, France",2.3262166,48.8792593,2022-12-02
+637,"27 Rue de Liège, 75008 Paris, France",2.3262166,48.8792593,2023-12-12
+658,"26 Rue Montgallet, 75012 Paris, France",2.3880016,48.8435125,2022-12-20
+680,"27 Rue de Liège, Paris, France",2.3262166,48.8792593,2023-01-05
+736,"6 Rue de la Pépinière, 75008 Paris, France",2.3231524,48.8752862,2023-02-02
+878,"13 Rue Quentin-Bauchart, 75008 Paris, France",2.3000655,48.8694689,2023-02-27
+933,"17 Rue des États Généraux, Versailles, France",2.1329678,48.8001386,2023-03-20
+934,"17 Rue des États Généraux, Versailles, France",2.1329678,48.8001386,2023-03-20
+935,"17 Rue des États Généraux, Versailles, France",2.1329678,48.8001386,2023-03-20
+936,"17 Rue des États Généraux, Versailles, France",2.1329678,48.8001386,2023-03-20
+1080,"21 Rue de Turin, 75008 Paris, France",2.3243508,48.8816761,2023-05-09
+1453,"57 Rue Decamps, 75116 Paris, France",2.276626,48.8628497,2023-09-28
+1466,"38 Rue de Turin, 75008 Paris, France",2.3245233,48.8826942,2023-10-03
+1538,"31 Rue de Turin, 75008 Paris, France",2.3241114,48.8825072,2023-11-03
+1701,"32 Rue de Liège, 75008 Paris, France",2.3256653,48.8795347,2024-01-19
+1717,"38 Rue des Bleuets, Créteil, France",2.4530187,48.8033551,2024-01-24
+1810,"66 Rue Rennequin, 75017 Paris, France",2.2948408,48.8842745,2024-03-01
+1819,"21 rue de Turin, Paris, France",2.3243508,48.8816761,2024-03-07
+2079,"41 Rue d'Amsterdam, Paris, France",2.3267122,48.8792487,2024-06-25
+2217,"9 Rue Clapeyron, Paris, France",2.3240856,48.8814603,2024-09-16
+2396,"12 Rue Nollet, Paris, France",2.3241451,48.8853163,2024-11-21
+2421,"12 Rue Nollet, Paris, France",2.3241451,48.8853163,2024-12-03
+2831,"92 Rue de Miromesnil, Paris, France",2.3156827,48.8792751,2025-04-17
+2921,"21 rue de Turin, Paris, France",2.3243572,48.8816921,2025-05-13
+2922,"41 Rue de Courcelles, Paris, France",2.3082152,48.8757554,2025-05-14
+2952,"41 Rue d'Amsterdam, Paris, France",2.3267122,48.8792487,2025-05-23
+3026,"19 Av. Hoche, Paris, France",2.3028211,48.8767643,2025-06-11
+1468,"66 Av. Pierre Curie, 78210 Saint-Cyr-l'École, France",2.0604487,48.7981504,2023-10-06
+681,"12 Rue Lechapelais, 75017 Paris, France",2.3251659,48.8857865,2023-02-28
+696,"42 Rue Nollet, 75017 Paris, France",2.3227634,48.8864422,2023-01-13
+707,"4 Rue des Apennins, 75017 Paris, France",2.3216239,48.8901596,2023-01-24
+708,"71 Rue Lemercier, 75017 Paris, France",2.3212651,48.8878788,2023-01-20
+709,"56 Rue du Rocher, 75008 Paris, France",2.3198247,48.8783867,2023-02-28
+886,"2 Rue Nollet, 75017 Paris, France",2.3248093,48.8848802,2023-02-28
+930,"12 Rue de Liège, 75009 Paris, France",2.3279835,48.8798704,2023-03-16
+951,"12 Rue de Liège, 75009 Paris, France",2.3279835,48.8798704,2023-03-22
+1124,"33 Rue Victor Hugo, 93500 Pantin, France",2.404939,48.8944921,2023-05-26
+1125,"6 Rue de l'Agent Bailly, 75009 Paris, France",2.3418527,48.8785706,2023-05-26
+1126,"23 Rue de Saint-Pétersbourg, 75008 Paris, France",2.3253758,48.8816663,2023-05-30
+1283,"23 Bd des Batignolles, 75008 Paris, France",2.3247896,48.8827282,2023-07-06
+1288,"58 Rue de Courcelles, 75008 Paris, France",2.3072593,48.877134,2023-07-07
+1398,"17 Rue des États Généraux, 78000 Versailles, France",2.1329678,48.8001386,2023-09-06
+1406,"17 Rue des États Généraux, 78000 Versailles, France",2.1329678,48.8001386,2023-09-09
+1445,"11 Rue de Parme, 75009 Paris, France",2.3274224,48.8811803,2023-09-27
+1540,"11 Rue de Parme, 75009 Paris, France",2.3274224,48.8811803,2023-11-02
+1593,"60 Bd Malesherbes, 75008 Paris, France",2.3168902,48.8775684,2023-11-22
+1594,"5 Rue du Chevalier de la Barre, 75018 Paris, France",2.3472424,48.8874253,2023-11-22
+1605,"26 Rue Hoche, Argenteuil, France",2.2445089,48.946352,2023-12-01
+1642,"15 boulevard des Batignolles, Paris, France",2.3255155,48.8828773,2023-12-15
+1667,"7 Rue du Dobropol 75 017, 75017 Paris, France",2.2856588,48.8827837,2024-01-05
+1765,"Paris, France",2.3522219,48.856614,2024-02-09
+1848,"17 Rue Lemercier, Paris, France",2.3242031,48.8860235,2024-03-19
+1908,"33 Rue Victor Hugo, Pantin, France",2.404939,48.8944921,2024-04-09
+1927,"23 Rue de Berne, Paris, France",2.3227719,48.8811531,2024-04-15
+2076,"34 rue de Turin, Paris, France",2.324558,48.8822914,2024-06-24
+2150,"16 boulevard des Batignolles, Paris, France",2.3256075,48.8833526,2024-07-24
+2244,"15 boulevard des Batignolles, Paris, France",2.3255155,48.8828773,2024-09-30
+2318,"33 Rue Victor Hugo, Pantin, France",2.404939,48.8944921,2024-10-17
+2339,"153 Rue de l'Université, Paris, France",2.3050543,48.8610111,2024-10-22
+2408,"51 Rue d'Amsterdam, Paris, France",2.327058,48.876247,2024-11-28
+2413,"15 boulevard des Batignolles, Paris, France",2.3255155,48.8828773,2024-11-29
+2567,"26 rue de Turin, Paris, France",2.3247448,48.8817381,2025-01-21
+2762,"26 rue de Turin, Paris, France",2.3248067,48.8817217,2025-03-25
+2763,"11 Rue de Berne, Paris, France",2.3233194,48.8805265,2025-03-25
+2782,"17 Rue Clapeyron, Paris, France",2.3236528,48.8819185,2025-03-28
+2793,"23 Bd Voltaire, Paris, France",2.3678177,48.8653672,2025-04-04
+2926,"19 Rue Clapeyron, Paris, France",2.324052,48.881473,2025-05-15
+2931,"24 rue de Turin, Paris, France",2.3248105,48.8815646,2025-05-19
+3019,"10 Rue de Liège, Paris, France",2.3280712,48.8798686,2025-06-10
+2344,"24 Rue Philippe de Girard, 75010 Paris, France",2.361905,48.8835755,2024-10-24
+2578,"Cité Héron, 75010 Paris, France",2.3650165,48.8745656,2025-01-23
+2696,"62 Av. Claude Vellefaux, 75010 Paris, France",2.3705962,48.8766754,2025-03-07
+2720,"62 Av. Claude Vellefaux, 75010 Paris, France",2.3705962,48.8766754,2025-03-13
+3032,"26 Av. du Général Michel Bizot, 75012 Paris, France",2.3994739,48.8335491,2025-06-10
+3155,"29 Rue de la Grange aux Belles, 75010 Paris, France",2.3666574,48.8751224,2025-07-22
+3161,"7 Rue Robert Blache, 75010 Paris, France",2.3642426,48.8775751,2025-07-23
+3192,"4 Rue de l'Hôpital Saint-Louis, 75010 Paris, France",2.3659625,48.8748211,2025-08-07
+591,"4 Rue de Cambrai, 75019 Paris, France",2.3771573,48.8937326,2022-11-25
+592,"14 Rue de Cambrai, 75019 Paris, France",2.3779739,48.8944206,2022-11-24
+642,"17 Rue Alexandre Dumas, 75011 Paris, France",2.3904417,48.853219,2022-12-14
+679,"219 Rue Saint-Martin, 75003 Paris, France",2.3529485,48.8642297,2023-01-07
+683,"196 Bd Voltaire, 75011 Paris, France",2.3860402,48.8539196,2023-01-05
+695,"219 Rue Saint-Martin, Paris, France",2.3529485,48.8642297,2023-01-31
+738,"157 Bd Voltaire, 75011 Paris, France",2.3848998,48.8551902,2023-01-25
+852,"52 Rue Basfroi, 75011 Paris, France",2.3783978,48.8566308,2023-02-13
+867,"52 Rue Désiré Préaux, 93100 Montreuil, France",2.4318446,48.8601704,2023-02-21
+908,"82bis Rue de Montreuil, 75011 Paris, France",2.3936891,48.8504834,2023-03-09
+953,"52 Rue Basfroi, 75011 Paris, France",2.3783978,48.8566308,2023-03-21
+962,"12 Rue des Bluets, 75011 Paris, France",2.3824328,48.8644977,2023-03-29
+1003,"1 bis Cité du Labyrinthe, 75020 Paris, France",2.3854595,48.8673759,2023-04-14
+1056,"27 Rue Titon, 75011 Paris, France",2.3862065,48.852573,2023-04-28
+1073,"57 rue Alexandre-Dumas, Paris, France",2.3954356,48.8542875,2023-05-03
+1083,"27 Rue Titon, 75011 Paris, France",2.3862065,48.852573,2023-05-11
+1131,"219 Rue Saint-Martin, 75003 Paris, France",2.3529485,48.8642297,2023-05-31
+1160,"17 Rue de Belfort, 75011 Paris, France",2.3840669,48.8568173,2023-06-08
+1275,"21 Av. Quihou, 94160 Saint-Mandé, France",2.4164408,48.8484933,2023-07-05
+1362,"6 Rue d'Avron, 75020 Paris, France",2.399324,48.851403,2023-08-03
+1369,"5 Rue Alexandre Dumas, 75011 Paris, France",2.3893813,48.8529714,2023-08-10
+1405,"82bis Rue de Montreuil, 75011 Paris, France",2.3936891,48.8504834,2023-09-12
+1419,"22 rue Alexandre-Dumas, Paris, France",2.3911809,48.8531251,2023-09-15
+1474,"144 Rue de Charonne, 75011 Paris, France",2.3890308,48.8552445,2023-10-06
+1486,"144 Rue de Charonne, 75011 Paris, France",2.3890308,48.8552445,2023-10-10
+1510,"6 Rue des immeubles Industriels, 75011 Paris, France",2.3929974,48.8492742,2023-10-18
+633,"1 Rue Boutard, 92200 Neuilly-sur-Seine, France",2.259789,48.8838551,2022-12-09
+810,"35 Rue de Meaux, 75019 Paris, France",2.3723267,48.8802155,2023-01-31
+819,"42 rue du Château d'Eau, 75010 Paris, France",2.3588404,48.8709787,2023-02-08
+1136,"7 Rue Carcel, 75015 Paris, France",2.2989713,48.8399345,2023-06-02
+1137,"7 Rue Carcel, 75015 Paris, France",2.2989713,48.8399345,2023-06-02
+1266,"90 Rue de Cléry, 75002 Paris, France",2.351011,48.8693295,2023-06-30
+1337,"37 Rue Beauregard, 75002 Paris, France",2.3510607,48.8696607,2023-07-25
+1761,"16 Rue de Mazagran, 75010 Paris, France",2.3520534,48.8707285,2024-02-08
+574,"32 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3563539,48.8700894,2022-11-17
+584,"52 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3568578,48.8708659,2022-11-19
+623,"2 Rue Jean-Baptiste Pigalle, 75009 Paris, France",2.3322249,48.8780599,2022-12-01
+645,"3 Rue Lucien Sampaix, 75010 Paris, France",2.3596237,48.8709244,2022-12-14
+818,"273 rue des Pyrénées, 75020 Paris, France",2.3959032,48.8679892,2023-01-31
+832,"12 Rue Bouchardon, 75010 Paris, France",2.3575917,48.8699956,2023-02-06
+873,"54 Rue Sedaine, Paris, France",2.3762108,48.857485,2023-02-21
+892,"135 Rue Ordener, 75018 Paris, France",2.3407063,48.8929159,2023-03-02
+986,"27 Rue Etienne Dolet, 75020 Paris, France",2.3848382,48.8680292,2023-04-10
+1087,"23 Rue du Surmelin, 75020 Paris, France",2.4036588,48.8688957,2023-05-16
+1241,"50 Rue de Ménilmontant, 75020 Paris, France",2.3877351,48.8681402,2023-06-23
+2568,"12 Rue Boyer, 75020 Paris, France",2.3928461,48.8676509,2025-01-21
+2582,"12 Rue Boyer, 75020 Paris, France",2.3928461,48.8676509,2025-01-24
+2818,"33 Rue Pelleport, Paris, France",2.4039505,48.8637411,2025-04-16
+3018,"12 Rue Kléber, Levallois-Perret, France",2.2794047,48.8924214,2025-06-06
+3122,"1 Rue Henri Poincaré, Paris, France",2.4022461,48.8696136,2025-07-08
+3123,"1 Rue Henri Poincaré, Paris, France",2.4022461,48.8696136,2025-07-08
+3136,"12 Rue Kléber, Levallois-Perret, France",2.2794047,48.8924214,2025-07-11
+3176,"1 Rue Henri Poincaré, Paris, France",2.4022461,48.8696136,2025-08-06
+672,"2 Rue Marie et Louise, 75010 Paris, France",2.3674679,48.8718656,2023-01-05
+917,"18 Rue Taylor, 75010 Paris, France",2.359509,48.8699874,2023-03-10
+928,"44 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3566338,48.8705331,2023-03-17
+1023,"9 Rue Ambroise Paré, 75010 Paris, France",2.3522717,48.8817781,2023-04-19
+1026,"22 Cr des Petites Écuries, 75010 Paris, France",2.3514973,48.8725457,2023-04-19
+1058,"70 Rue du Faubourg Poissonnière, 75010 Paris, France",2.3484673,48.876161,2023-05-02
+1093,"57 Rue Bichat, 75010 Paris, France",2.3657591,48.8730645,2023-05-17
+1329,"28 Rue Jacques Louvel-Tessier, 75010 Paris, France",2.37071,48.871308,2023-07-24
+1348,"28 Rue Jacques Louvel-Tessier, 75010 Paris, France",2.37071,48.871308,2023-07-31
+1479,"93 Rue de la Folie Méricourt, 75011 Paris, France",2.3688828,48.8673951,2023-10-06
+1533,"70 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3573443,48.8715217,2023-10-31
+1534,"79 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3573934,48.8725854,2023-10-31
+1633,"10 Rue Poissonnière, 75002 Paris, France",2.34782,48.8688839,2023-12-14
+1634,"10 Rue Poissonnière, 75002 Paris, France",2.34782,48.8688839,2023-12-14
+1659,"101 Rue du Faubourg Saint-Denis, 75010 Paris, France",2.3551616,48.8748711,2023-12-27
+1828,"14 Rue Vicq d'Azir, 75010 Paris, France",2.3700782,48.8760268,2024-03-08
+1947,"28 Rue Jean et Marie Moinon, 75010 Paris, France",2.3723311,48.8745302,2024-04-30
+2029,"15 Rue Bouchardon, 75010 Paris, France",2.3575263,48.870514,2024-06-03
+2032,"53 Rue du Faubourg Saint-Denis, 75010 Paris, France",2.3533782,48.8718755,2024-06-04
+2236,"41 Rue des Vinaigriers, 75010 Paris, France",2.3611676,48.8730501,2024-09-25
+2250,"19 Rue Lucien Sampaix, 75010 Paris, France",2.3608024,48.8723577,2024-10-01
+2338,"11 Rue Ambroise Paré, 75010 Paris, France",2.3520472,48.8818034,2024-10-22
+2376,"6 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3560977,48.8693682,2024-11-15
+585,"33 R. du Château Landon, 75010 Paris, France",2.3637812,48.8834236,2022-11-17
+685,"57 Rue du Château d'Eau, 75010 Paris, France",2.355401,48.8723934,2023-01-06
+712,"10 Rue Hittorf, 75010 Paris, France",2.3580108,48.8720616,2023-01-18
+848,"22 Rue des Vinaigriers, 75010 Paris, France",2.3632166,48.8732084,2023-02-10
+937,"14 Rue de Lancry, 75010 Paris, France",2.3608788,48.8693111,2023-03-17
+1100,"5 Rue Bouchardon, 75010 Paris, France",2.3571381,48.8698811,2023-05-19
+1207,"90 Bd de Magenta, 75010 Paris, France",2.35572,48.8770505,2023-06-15
+1214,"103 Rue du Général de Gaulle, 95880 Enghien-les-Bains, France",2.301254,48.966202,2023-06-16
+1359,"13 Rue Marie et Louise, 75010 Paris, France",2.3664027,48.8718694,2023-08-03
+1378,"52 Quai de Jemmapes, 75010 Paris, France",2.3673901,48.8704356,2023-08-23
+1475,"5 Cité du Wauxhall, 75010 Paris, France",2.3628303,48.8693245,2023-10-05
+1492,"5 Cité du Wauxhall, 75010 Paris, France",2.3628303,48.8693245,2023-10-12
+1497,"5 Cité du Wauxhall, 75010 Paris, France",2.3628303,48.8693245,2023-10-13
+551,"53 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3567853,48.8713589,2022-10-29
+578,"63 Bd de Magenta, 75010 Paris, France",2.3576474,48.874268,2022-11-16
+586,"118 Bd de Magenta, 75010 Paris, France",2.3537401,48.8792592,2022-11-18
+703,"15 Rue Cail, 75010 Paris, France",2.3603171,48.8826945,2023-01-18
+850,"68 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3574299,48.8714051,2023-02-10
+949,"32 Rue Albert Thomas, 75010 Paris, France",2.3630824,48.8697128,2023-03-21
+963,"39 Rue du Faubourg du Temple, 75010 Paris, France",2.3684259,48.869203,2023-03-24
+982,"1 Pl. Robert Desnos, 75010 Paris, France",2.3680486,48.878021,2023-04-07
+984,"244 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.366627,48.8821164,2023-04-06
+985,"2 Rue Pierre Dupont, 75010 Paris, France",2.3645372,48.8787323,2023-04-06
+1008,"69 Rue Caulaincourt, 75018 Paris, France",2.3363787,48.8896285,2023-04-14
+1088,"29 Bd de la Chapelle, 75010 Paris, France",2.3605556,48.8841703,2023-05-12
+1122,"2 Rue Pierre Dupont, 75010 Paris, France",2.3645372,48.8787323,2023-05-25
+1132,"2 rue Pierre-Dupont, 75010 Paris, France",2.3645372,48.8787323,2023-05-30
+1165,"44 Rue Honoré d'Estienne d'Orves, 93310 Le Pré-Saint-Gervais, France",2.399747,48.886037,2023-06-07
+1239,"82 Rue René Boulanger, 75010 Paris, France",2.3571092,48.8693857,2023-06-23
+1279,"8 Bd Saint-Martin, 75010 Paris, France",2.3578639,48.8688024,2023-07-06
+1307,"22 Rue Jean et Marie Moinon, Paris, France",2.3716986,48.8742568,2023-07-13
+1308,"139 Avenue Jean Jaurès, Paris, France",2.3841,48.8865893,2023-07-13
+1379,"44 Rue d'Estienne d'Orves, 93310 Le Pré-Saint-Gervais, France",2.399747,48.886037,2023-08-25
+1391,"36 Rue du Faubourg Saint-Denis, 75010 Paris, France",2.3536675,48.8711639,2023-09-05
+1579,"29 Bd Saint-Martin, 75003 Paris, France",2.3588101,48.868336,2023-11-17
+1580,"59 Rue du Faubourg Saint-Denis, 75010 Paris, France",2.3536109,48.8720699,2023-11-22
+1592,"29 Bd Saint-Martin, 75003 Paris, France",2.3588101,48.868336,2023-11-23
+1604,"51 Rue du Château d'Eau, 75010 Paris, France",2.3563045,48.8720346,2023-11-29
+1685,"83 Rue d'Hauteville, 75010 Paris, France",2.3511502,48.8768413,2024-01-12
+1768,"7 Bd de Denain, 75010 Paris, France",2.3545514,48.8789864,2024-02-12
+1804,"27 Rue Bouchardon, 75010 Paris, France",2.3579902,48.8711209,2024-03-01
+1945,"16 Rue du Faubourg Saint-Denis, 75010 Paris, France",2.3532677,48.8705819,2024-04-24
+2080,"5 Cité Riverin, Paris, France",2.358249,48.8702379,2024-06-25
+715,"26 Rue d'Aligre, 75012 Paris, France",2.3787995,48.8496671,2023-02-02
+549,"28 Rue du Colonel Rozanoff, 75012 Paris, France",2.3872984,48.8461979,2022-11-05
+605,"9 Rue Victorien Sardou, 75016 Paris, France",2.2673995,48.8430032,2022-11-28
+609,"72 Rue Crozatier, 75012 Paris, France",2.3793719,48.8500513,2022-11-28
+659,"72 Rue Crozatier, 75012 Paris, France",2.3793719,48.8500513,2022-12-15
+674,"9 rue Lucien Sampaix 75016 Paris, France",2.3598725,48.8711974,2023-01-02
+688,"9 rue Lucien Sampaix 75016 Paris, France",2.3598725,48.8711974,2023-01-05
+839,"97 Rue de Charenton, 75012 Paris, France",2.3773181,48.8477024,2023-02-07
+874,"7 Rue du Calvaire, 92150 Suresnes, France",2.219998,48.870641,2023-02-28
+983,"97 Rue de Charenton, 75012 Paris, France",2.3773181,48.8477024,2023-04-06
+1234,"47 Rue de Montreuil, 75011 Paris, France",2.3884951,48.8505496,2023-06-23
+1236,"5 Rue Henri Barbusse, 95130 Franconville, France",2.23276,48.9939891,2023-06-26
+1309,"7 Rue du Colonel Oudot, 75012 Paris, France",2.406462,48.8368813,2023-07-25
+1051,"14 Rue Théophile Roussel, 75012 Paris, France",2.3760079,48.8505316,2023-04-27
+1163,"58 Rue du Château d'Eau, 75010 Paris, France",2.3565576,48.8721509,2023-06-08
+1184,"83 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3571497,48.8728264,2023-06-14
+1197,"22 Rue St Vincent de Paul, 75010 Paris, France",2.3527329,48.8813538,2023-06-16
+1243,"3 Cité de Magenta, 75010 Paris, France",2.3595976,48.8716281,2023-06-26
+1400,"42 Rue du Château d'Eau, Paris, France",2.3588404,48.8709787,2023-09-12
+1432,"14 Rue Notre Dame de Nazareth, 75003 Paris, France",2.3608958,48.8672003,2023-09-25
+1472,"33 rue du Faubourg du Temple, Paris, France",2.3679294,48.8693382,2023-10-04
+1569,"41 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3563413,48.8707399,2023-11-13
+1706,"27 Bd Saint-Martin, 75003 Paris, France",2.35894,48.8683006,2024-01-23
+1740,"72 Rue René Boulanger, 75010 Paris, France",2.357842,48.869302,2024-02-01
+1788,"18 Rue Juliette Dodu, 75010 Paris, France",2.3691831,48.8758891,2024-02-23
+1806,"8 Place Jacques Bonsergent, Paris, France",2.3612202,48.8711549,2024-03-05
+1807,"8 Place Jacques Bonsergent, Paris, France",2.3612202,48.8711549,2024-03-05
+1841,"46 Rue Crozatier, 75012 Paris, France",2.3805783,48.8485262,2024-03-12
+1898,"4 Sq. de Verdun, 75010 Paris, France",2.3624047,48.8762438,2024-04-09
+1928,"8 Rue du Delta, 75009 Paris, France",2.3487076,48.8825432,2024-04-19
+2038,"10 Cité Riverin, 75010 Paris, France",2.3586631,48.8705071,2024-06-13
+2202,"83 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.357104,48.8728385,2024-09-10
+2203,"119 Rue de l'Abbé Groult, 75015 Paris, France",2.3008671,48.8368365,2024-09-09
+2210,"1 Bis Rue Mornay, 75004 Paris, France",2.3659591,48.8493373,2024-09-12
+2223,"5 Rue du Château d'Eau, 75010 Paris, France",2.3616271,48.8691254,2024-09-19
+2324,"10 Rue Barbette, 75003 Paris, France",2.3608685,48.8589399,2024-10-23
+2521,"66 Rue de Romainville, 75019 Paris, France",2.4029951,48.8772894,2025-01-17
+2570,"90 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3580108,48.8728269,2025-01-22
+2580,"28 Rue d'Hauteville, 75010 Paris, France",2.3510568,48.8727216,2025-01-30
+2628,"52 Rue Chapon, 75003 Paris, France",2.3539829,48.8641652,2025-02-13
+2659,"16 Rue de Paradis, 75010 Paris, France",2.3538704,48.8748542,2025-02-25
+2694,"17 Rue de Lancry, 75010 Paris, France",2.3602539,48.8697878,2025-03-04
+2734,"7 Cité Hittorf, 75010 Paris, France",2.3587417,48.8717201,2025-03-17
+2750,"68 Rue Mstislav Rostropovitch, Paris, France",2.3109496,48.891391,2025-03-20
+2757,"68 Rue Mstislav Rostropovitch, Paris, France",2.3109496,48.891391,2025-03-25
+2781,"43 Rue de Lyon, 75012 Paris, France",2.3707158,48.8489004,2025-04-01
+2843,"75 Quai de la Seine, 75019 Paris, France",2.377871,48.8886393,2025-04-24
+2941,"27 Rue Bouchardon, 75010 Paris, France",2.3579902,48.8711209,2025-05-22
+2977,"48 R. du Château Landon, 75010 Paris, France",2.3641696,48.8831904,2025-06-05
+3040,"110 Rue Lamarck, Paris, France",2.3350861,48.8905978,2025-06-11
+3042,"12 Rue de Mazagran, 75010 Paris, France",2.351843,48.8705716,2025-06-12
+3146,"149 Rue du Faubourg Saint-Denis, 75010 Paris, France",2.35644,48.8783725,2025-07-16
+576,"139 Rue de Charenton, 75012 Paris, France",2.3816002,48.8452608,2022-11-17
+619,"52bis Av. Daumesnil, 75012 Paris, France",2.3788027,48.8454426,2022-12-01
+827,"30 Pass. Thiéré, 75011 Paris, France",2.3729975,48.8546872,2023-02-02
+840,"28 Rue de Poissy, 75005 Paris, France",2.3517594,48.8481527,2023-02-08
+1097,"2 Vla Montgolfier, 94410 Saint-Maurice, France",2.4593516,48.8146919,2023-05-19
+1173,"235 Rue de Bercy, 75012 Paris, France",2.3691459,48.8468715,2023-06-09
+1253,"21 Rue Sedaine, 75011 Paris, France",2.3729559,48.8563202,2023-06-27
+1465,"235 Rue de Bercy, 75012 Paris, France",2.3691459,48.8468715,2023-10-04
+1469,"45 Rue Crozatier, 75012 Paris, France",2.3804188,48.8481913,2023-10-05
+1470,"2 Rue Jules Joffrin, 94100 Saint-Maur-des-Fossés, France",2.4639549,48.8103928,2023-10-05
+1504,"135 Rue de Charenton, 75012 Paris, France",2.3813494,48.8453126,2023-10-16
+1505,"45 Rue Crozatier, 75012 Paris, France",2.3804188,48.8481913,2023-10-17
+1512,"12 bis Bd de la Bastille, 75012 Paris, France",2.3676364,48.847615,2023-10-19
+1590,"5 Imp. Crozatier, 75012 Paris, France",2.3798437,48.8481481,2023-11-22
+1660,"15 Pl. d'Aligre, 75012 Paris, France",2.3788842,48.8487408,2023-12-29
+1699,"5 Rue Claude Decaen, 75012 Paris, France",2.4014698,48.833702,2024-01-20
+1722,"45 Rue Crozatier, Paris, France",2.3804188,48.8481913,2024-01-25
+1726,"2 Rue de la Durance, 75012 Paris, France",2.3943697,48.8380848,2024-01-29
+1771,"47 Rue de Pommard, 75012 Paris, France",2.3831312,48.8368693,2024-02-16
+1825,"118 Av. du Général Michel Bizot, 75012 Paris, France",2.4045939,48.8396748,2024-03-07
+1862,"29 Bd de Reuilly, 75012 Paris, France",2.3923135,48.8394556,2024-03-22
+1918,"51 Rue de Charonne, 75011 Paris, France",2.37832,48.8533822,2024-04-11
+1926,"251 Rue de Bercy, 75012 Paris, France",2.3679592,48.847586,2024-04-16
+1934,"69 Rue de la Roquette, 75011 Paris, France",2.3767492,48.8565693,2024-04-22
+1964,"5 Rue Claude Decaen, 75012 Paris, France",2.4014698,48.833702,2024-05-09
+1979,"6 Rue Gabriel Péri, 94220 Charenton-le-Pont, France",2.416848,48.8195238,2024-05-14
+2036,"150 Rue Etienne Marcel, 93100 Montreuil, France",2.4268356,48.857632,2024-06-05
+2037,"150 Rue Etienne Marcel, 93100 Montreuil, France",2.4268356,48.857632,2024-06-06
+2134,"176 Rue Diderot, Vincennes, France",2.4521634,48.849865,2024-07-18
+2135,"42 bis Avenue du Général Michel Bizot, Paris, France",2.4004913,48.8342545,2024-07-17
+2161,"3 Rue de la Forge Royale, 75011 Paris, France",2.3801748,48.8507794,2024-07-29
+2209,"104 Rue de Charenton, 75012 Paris, France",2.3773234,48.847376,2024-09-12
+2235,"15 Rue de Wattignies, 75012 Paris, France",2.393377,48.8367008,2024-09-25
+2301,"27 Rue de Saintonge, 75003 Paris, France",2.3629053,48.8621934,2024-10-10
+2379,"196 Boulevard de Charonne, Paris, France",2.3916859,48.8581182,2024-11-18
+2380,"196 Boulevard de Charonne, Paris, France",2.3916859,48.8581182,2024-11-18
+2397,"2 Place d'Aligre, Paris, France",2.3772851,48.8487102,2024-11-22
+2649,"25 Rue de Fécamp, 75012 Paris, France",2.3989787,48.8355501,2025-02-18
+2667,"57 Rue de Charenton, 75012 Paris, France",2.3731999,48.8507376,2025-02-25
+2669,"25 Rue de Fécamp, 75012 Paris, France",2.3989787,48.8355501,2025-02-24
+2800,"22 Rue Hector Malot, 75012 Paris, France",2.37742,48.8468982,2025-04-07
+2807,"21 Rue de Montreuil, Paris, France",2.3851772,48.8506618,2025-04-08
+2862,"8 Imp. Charles Petit, 75011 Paris, France",2.3852541,48.8510535,2025-04-30
+2939,"6 Rue Paul Bert, 75011 Paris, France",2.3846275,48.8513781,2025-05-22
+3095,"42 Rue Leroy Dupré, 75012 Paris, France",2.4019045,48.8429998,2025-07-01
+3148,"Rue Paul Bert, 75011 Paris, France",2.3845925,48.8515907,2025-07-17
+575,"31 Pass. Thiéré, 75011 Paris, France",2.3727805,48.8543357,2022-11-15
+639,"7 Vla Etienne Marey, 75020 Paris, France",2.406382,48.868099,2022-12-12
+640,"12 Rue Beccaria, 75012 Paris, France",2.3792469,48.8472106,2022-12-14
+662,"31 Pass. Thiéré, 75011 Paris, France",2.3727805,48.8543357,2022-12-21
+902,"13 Rue de Toul, 75012 Paris, France",2.4021385,48.8384852,2023-03-06
+682,"49 Bd Diderot, 75012 Paris, France",2.3808837,48.8468675,2023-01-06
+726,"161 Rue du Faubourg Saint-Antoine, 75011 Paris, France",2.3798116,48.850646,2023-01-23
+887,"47 Rue de Lyon, 75012 Paris, France",2.3704452,48.8494547,2023-02-27
+896,"47 Rue de Lyon, 75012 Paris, France",2.3704452,48.8494547,2023-02-28
+924,"44 Rue Crozatier, 75012 Paris, France",2.3806405,48.8484125,2023-03-15
+961,"8bis Rue Abel, 75012 Paris, France",2.3751347,48.846801,2023-03-24
+972,"117 Rue de Charenton, 75012 Paris, France",2.3799559,48.8460811,2023-03-30
+1108,"18 Rue d'Aligre, 75012 Paris, France",2.3784618,48.8492501,2023-05-24
+1149,"57 Bd Poniatowski, 75012 Paris, France",2.4010196,48.8332661,2023-06-07
+1476,"5 Rue Erard, 75012 Paris, France",2.3840993,48.8454648,2023-10-06
+1494,"10 Rue Sidi Brahim, 75012 Paris, France",2.4000703,48.8387051,2023-10-13
+1495,"10 Rue Sidi Brahim, 75012 Paris, France",2.4000703,48.8387051,2023-10-13
+1644,"21 Rue Lasson, 75012 Paris, France",2.407643,48.8430872,2023-12-15
+1645,"21 Rue Lasson, 75012 Paris, France",2.407643,48.8430872,2023-12-15
+1654,"6 Rue Ganneron, 75018 Paris, France",2.3268586,48.8859903,2023-12-22
+1698,"6 Rue Ganneron, 75018 Paris, France",2.3268586,48.8859903,2024-01-18
+1822,"20 Rue de la Cerisaie, 94220 Charenton-le-Pont, France",2.409808,48.8206336,2024-03-12
+1907,"51 Rue de Belleville, 75019 Paris, France",2.3810682,48.873219,2024-04-09
+1931,"169 Rue du Faubourg Saint-Antoine, 75011 Paris, France",2.3804223,48.8505941,2024-04-23
+1942,"98 Av. Ledru Rollin, 75011 Paris, France",2.3767323,48.8519089,2024-04-24
+1984,"21 Rue de la Forge Royale, 75011 Paris, France",2.3805984,48.851908,2024-05-17
+2198,"28 Rue Victor Noir, Neuilly-sur-Seine, France",2.2646528,48.8821886,2024-09-04
+2226,"173 Rue de Charenton, Paris, France",2.3860478,48.8446491,2024-09-18
+2227,"173 Rue de Charenton, Paris, France",2.3860478,48.8446491,2024-09-18
+2446,"8 Pass. Driancourt, 75012 Paris, France",2.3802311,48.8494447,2024-12-10
+2471,"11 Rue Auber, 75009 Paris, France",2.3290905,48.8724894,2024-12-13
+2529,"26 Rue Robespierre, Ivry-sur-Seine, France",2.3878655,48.8063458,2025-01-17
+2622,"6 Place Maurice de Fontenay, Paris, France",2.3885456,48.8452188,2025-02-10
+2785,"6 Place Maurice de Fontenay, Paris, France",2.3883136,48.8451729,2025-03-28
+2792,"10 Rue Jules Ferry, Levallois-Perret, France",2.2933445,48.8941683,2025-04-03
+2940,"15 Rue Claude Tillier, Paris, France",2.3878695,48.8481741,2025-05-23
+3067,"10 Bd Diderot, Paris, France",2.3704362,48.8453111,2025-06-19
+3149,"33 Rue Rottembourg, Paris, France",2.4075086,48.8388374,2025-07-23
+668,"95 Rue Lecourbe, 75015 Paris, France",2.3037593,48.8427895,2022-12-30
+823,"234 rue de la Convention, Paris, France",2.3001789,48.8359788,2023-02-03
+829,"7 Rue de Viroflay, 75015 Paris, France",2.2996564,48.8422278,2023-02-03
+862,"134 Rue Lecourbe, 75015 Paris, France",2.3007693,48.8421795,2023-02-17
+863,"5 Rue Robert Fleury, 75015 Paris, France",2.3018032,48.8435745,2023-02-21
+1101,"30 Rue François Bonvin, 75015 Paris, France",2.3059621,48.8442977,2023-05-19
+1246,"19 Rue Pierre Leroux, 75007 Paris, France",2.3193942,48.8489983,2023-06-26
+1272,"36 Rue de Chambéry, 75015 Paris, France",2.302585,48.8303358,2023-06-30
+1596,"14 Rue Corbon, 75015 Paris, France",2.302754,48.8361502,2023-11-24
+1631,"62 Rue Brancion, 75015 Paris, France",2.3033816,48.8329213,2023-12-12
+1663,"3 Rue Ernest Renan, 75015 Paris, France",2.3095633,48.8440881,2024-01-03
+1673,"133 Rue de l'Abbé Groult, 75015 Paris, France",2.3022402,48.8362015,2024-01-09
+1784,"6 Rue Tournus, 75015 Paris, France",2.2944687,48.8472201,2024-02-23
+1805,"6 Rue Tournus, 75015 Paris, France",2.2944687,48.8472201,2024-02-28
+1912,"7 Rue Robert Lindet, 75015 Paris, France",2.2957439,48.8337079,2024-04-18
+1985,"39 Quai de Grenelle, 75015 Paris, France",2.285696,48.851793,2024-05-17
+2160,"231 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.3659214,48.8820414,2024-07-29
+2167,"85 bis Rue de Billancourt, 92100 Boulogne-Billancourt, France",2.2364258,48.8380223,2024-08-01
+2251,"70 Rue Dutot, 75015 Paris, France",2.307955,48.8380022,2024-10-04
+2254,"120 Bd de Grenelle, 75015 Paris, France",2.2970494,48.8490399,2024-10-01
+2466,"9 Rue Armand Moisant, 75015 Paris, France",2.3183418,48.8417715,2024-12-19
+2469,"119 Rue de la Convention, 75015 Paris, France",2.2887525,48.8408457,2024-12-20
+2508,"53 Rue de Dantzig, 75015 Paris, France",2.2963674,48.8305898,2025-01-03
+2552,"8 All. Joseph Recamier, 75015 Paris, France",2.2969819,48.8352919,2025-01-16
+2596,"54 Rue Blomet, 75015 Paris, France",2.304856,48.8424225,2025-01-29
+2633,"41 Av. du Maréchal Lyautey, 75016 Paris, France",2.2586621,48.8496455,2025-02-14
+2641,"147 Bd Murat, Paris, France",2.2619474,48.8374477,2025-02-14
+2690,"50 Rue de Dantzig, 75015 Paris, France",2.297387,48.8325191,2025-02-27
+2699,"7 Rue Alain Chartier, 75015 Paris, France",2.2956076,48.8382738,2025-03-10
+2700,"15 Rue Lakanal, 75015 Paris, France",2.2949846,48.8442129,2025-03-10
+656,"35 Rue François Bonvin, 75015 Paris, France",2.3065352,48.8440704,2022-12-21
+670,"4 Rue Robert de Flers, 75015 Paris, France",2.2851402,48.8505526,2023-01-04
+622,"2 Rue Diderot, 92170 Vanves, France",2.2868778,48.8186655,2022-12-01
+981,"3 Imp. de l'Enfant Jésus, 75015 Paris, France",2.3149961,48.8439832,2023-04-05
+1078,"19 Rue Angélique, 92160 Antony, France",2.2925278,48.7527571,2023-05-10
+1094,"19 Rue Angélique, 92160 Antony, France",2.2925278,48.7527571,2023-05-17
+1213,"9 Rue Lecourbe, 75015 Paris, France",2.3100021,48.8446299,2023-06-16
+1276,"101 Rue du Petit Château, 94220 Charenton-le-Pont, France",2.4013975,48.8279401,2023-07-06
+1326,"101 Rue du Petit Château, 94220 Charenton-le-Pont, France",2.4013975,48.8279401,2023-07-20
+1467,"23 Rue François Bonvin, 75015 Paris, France",2.3060419,48.8448839,2023-10-04
+1484,"42 Rue de Cronstadt, 75015 Paris, France",2.3009488,48.8333097,2023-10-11
+1562,"2 Rue Robert Planquette, 75018 Paris, France",2.3342413,48.8849358,2023-11-08
+1915,"41 Rue la Quintinie, 75015 Paris, France",2.3035876,48.8373862,2024-04-15
+1967,"42 Rue de Cronstadt, 75015 Paris, France",2.3009488,48.8333097,2024-05-07
+1981,"97 Rue Lecourbe, 75015 Paris, France",2.3037059,48.8426726,2024-05-16
+2058,"8 Rue des Volontaires, 75015 Paris, France",2.3065733,48.8431845,2024-06-12
+2194,"18 Rue Lecourbe, 75015 Paris, France",2.3094826,48.8447737,2024-08-31
+2199,"22 Rue Lecourbe, 75015 Paris, France",2.3091757,48.844677,2024-09-06
+2372,"247 Rue de Vaugirard, 75015 Paris, France",2.3047619,48.8404623,2024-11-14
+2548,"22 Rue Lecourbe, 75015 Paris, France",2.3091757,48.844677,2025-01-14
+2795,"109 Rue Sadi Carnot, 92170 Vanves, France",2.2964014,48.825628,2025-04-02
+2822,"77 Rue Lecourbe, 75015 Paris, France",2.3051771,48.8432133,2025-04-14
+3009,"5 Sq. Villaret de Joyeuse, 75017 Paris, France",2.2896925,48.8774259,2025-06-05
+3015,"41 Rue la Quintinie, 75015 Paris, France",2.3035786,48.8373916,2025-06-05
+3178,"22 Rue Lecourbe, Paris, France",2.3091757,48.844677,2025-07-29
+568,"9 Rue de la Bûcherie, 75005 Paris, France",2.3488166,48.8515643,2022-11-10
+588,"15 Rue Lakanal, 75015 Paris, France",2.294742,48.8443637,2022-11-22
+820,"104 Boulevard de Sébastopol, Paris, France",2.3538313,48.8680078,2023-01-28
+838,"7 rue de Viroflay, Paris, France",2.2996564,48.8422278,2023-02-06
+905,"10 Rue Emile Duclaux, 75015 Paris, France",2.3083579,48.8428746,2023-03-07
+987,"27 Bd Barbès, 75018 Paris, France",2.3492461,48.8866421,2023-04-12
+1222,"17 Rue Gramme, 75015 Paris, France",2.2961887,48.8450903,2023-06-20
+1397,"15 Bd de Strasbourg, 75010 Paris, France",2.3545656,48.870413,2023-09-13
+1399,"8 Rue Sainte-Foy, 75002 Paris, France",2.3505962,48.8684947,2023-09-08
+1410,"8 Rue Sainte-Foy, 75002 Paris, France",2.3505962,48.8684947,2023-09-14
+1500,"5 Rue Thorel, 75002 Paris, France",2.3488462,48.8694738,2023-10-16
+1518,"10 Rue Emile Duclaux, 75015 Paris, France",2.3083579,48.8428746,2023-10-20
+1536,"135 Rue Raymond Losserand, 75014 Paris, France",2.3140522,48.8316647,2023-11-02
+1556,"45 Rue du Caire, 75002 Paris, France",2.3492637,48.8678299,2023-11-07
+1599,"9 Rue du Nil, 75002 Paris, France",2.3477564,48.8676638,2023-11-27
+1652,"5 Rue Tiquetonne, 75002 Paris, France",2.3496497,48.8643012,2023-12-21
+1724,"2 Pass. des Postes, 75005 Paris, France",2.3492458,48.8411256,2024-01-25
+1745,"7 Rue Jean Beausire, 75004 Paris, France",2.3680338,48.8541424,2024-02-05
+1746,"15 Rue Beauregard, 75002 Paris, France",2.3494028,48.8694196,2024-02-06
+1773,"10 Rue des Jeuneurs, 75002 Paris, France",2.34697,48.8690382,2024-02-14
+2140,"65 Rue des Gravilliers, 75003 Paris, France",2.3544667,48.8643811,2024-07-23
+2142,"8 Rue Poissonnière, 75002 Paris, France",2.3478833,48.8688122,2024-07-22
+2373,"95 Rue d'Aboukir, 75002 Paris, France",2.3484569,48.8683288,2024-11-14
+2565,"60 Rue de Cléry, 75002 Paris, France",2.3486412,48.8685864,2025-01-18
+2595,"159 Rue Saint-Maur, 75011 Paris, France",2.3742884,48.8688204,2025-01-29
+2604,"5 Rue Thorel, 75002 Paris, France",2.3488462,48.8694738,2025-02-01
+2765,"32 Rue Saint-Sauveur, 75002 Paris, France",2.347561,48.8663444,2025-03-28
+2847,"24 Rue Beaurepaire, 75010 Paris, France",2.3643508,48.8707613,2025-04-23
+589,"14 Rue Antoine Bourdelle, 75015 Paris, France",2.3190455,48.8430752,2022-11-22
+595,"16 Rue Blomet, 75015 Paris, France",2.3076485,48.8437342,2022-11-25
+649,"63 Bd Raspail, 75006 Paris, France",2.3277221,48.8496815,2022-12-19
+731,"81B Rue Blomet, 75015 Paris, France",2.3021972,48.841404,2023-01-25
+824,"63 Boulevard Raspail, Paris, France",2.3277221,48.8496815,2023-01-30
+1038,"6 Rue des Volontaires, 75015 Paris, France",2.3064281,48.8432857,2023-04-20
+1336,"9 Villa Juge, 75015 Paris, France",2.2930561,48.8492216,2023-07-27
+1461,"2 Rue Ernest Renan, 75015 Paris, France",2.3092526,48.8442132,2023-10-05
+1488,"2 Rue Ernest Renan, 75015 Paris, France",2.3092526,48.8442132,2023-10-12
+1565,"41 Rue Lecourbe, 75015 Paris, France",2.3075737,48.843893,2023-11-08
+1686,"27 Bd de Grenelle, 75015 Paris, France",2.2907134,48.8529914,2024-01-18
+1713,"43 Rue Lecourbe, 75015 Paris, France",2.3073922,48.8438179,2024-01-25
+1874,"4 Vla de Lourcine, 75014 Paris, France",2.3390947,48.8305146,2024-04-05
+1875,"31 Rue Lecourbe, 75015 Paris, France",2.3082027,48.844076,2024-03-25
+1896,"5 Rue Edouard Branly, 92130 Issy-les-Moulineaux, France",2.2707352,48.8228488,2024-04-05
+1917,"8 Rue Jeanne Hachette, 75015 Paris, France",2.2982962,48.8408587,2024-04-15
+1930,"12 Rue de l'Avre, 75015 Paris, France",2.2978317,48.8481364,2024-04-22
+1977,"18 Rue Lecourbe, 75015 Paris, France",2.3094826,48.8447737,2024-05-16
+1978,"40 Rue Blomet, 75015 Paris, France",2.3059508,48.8428892,2024-05-20
+1982,"1 Rue de l'Église, 92210 Saint-Cloud, France",2.2192887,48.8423232,2024-05-16
+1987,"1 Rue de l'Église, 92210 Saint-Cloud, France",2.2192887,48.8423232,2024-05-21
+2049,"86 Rue Olivier de Serres, 75015 Paris, France",2.2935717,48.8324198,2024-06-12
+2287,"20 Rue Jean Daudin, 75015 Paris, France",2.3077216,48.8445537,2024-10-05
+2293,"20 Rue Jean Daudin, 75015 Paris, France",2.3077216,48.8445537,2024-10-07
+2377,"20 Rue Jean Daudin, 75015 Paris, France",2.3077216,48.8445537,2024-11-15
+2513,"11 Rue Robert Fleury, 75015 Paris, France",2.301402,48.8435255,2025-01-08
+2574,"64 Rue Blomet, 75015 Paris, France",2.3039874,48.8421927,2025-01-28
+2593,"3 Rue Plumet, 75015 Paris, France",2.3090906,48.839436,2025-01-28
+2619,"3 Rue St Charles, 75015 Paris, France",2.2903749,48.8520013,2025-02-08
+2629,"63 Bd de Grenelle, 75015 Paris, France",2.2931454,48.8508255,2025-02-13
+2758,"36 Rue Mathurin Régnier, 75015 Paris, France",2.3080647,48.8392795,2025-03-25
+2915,"80 Bd Pasteur, 75015 Paris, France",2.3154888,48.8395537,2025-05-13
+3055,"18 Rue Gaston de Caillavet, 75015 Paris, France",2.2843094,48.8489473,2025-06-16
+3084,"21 Rue de Conflans, 94220 Charenton-le-Pont, France",2.4107711,48.8221931,2025-06-24
+3085,"7 Rue des Bergers, 75015 Paris, France",2.28282,48.8446955,2025-06-24
+925,"63 Rue Blomet, 75015 Paris, France",2.3043272,48.8417154,2023-03-16
+952,"10 Rue Dalou, 75015 Paris, France",2.3143102,48.84266,2023-03-28
+959,"12 Rue Emile Duclaux, 75015 Paris, France",2.308447,48.8427148,2023-03-27
+1007,"10 Rue Dalou, 75015 Paris, France",2.3143102,48.84266,2023-04-17
+1205,"175 Rue Lecourbe, 75015 Paris, France",2.2973012,48.8407418,2023-06-14
+1273,"32 Rue Pérignon, 75015 Paris, France",2.3066366,48.8470446,2023-07-04
+1292,"8 Rue Dalou, 75015 Paris, France",2.3142709,48.8427775,2023-07-07
+1322,"8 Rue Dalou, Paris, France",2.3142709,48.8427775,2023-07-18
+1325,"32 Rue Pérignon, 75015 Paris, France",2.3066366,48.8470446,2023-07-20
+1389,"75 Rue Fondary, 75015 Paris, France",2.2973596,48.846585,2023-09-06
+1402,"24 Rue des Volontaires, 75015 Paris, France",2.3075563,48.8417297,2023-09-08
+1404,"34 Rue du Fer à Moulin, 75005 Paris, France",2.3530045,48.8389544,2023-09-11
+1420,"145 Rue Saint-Dominique, 75007 Paris, France",2.3009488,48.8578341,2023-09-18
+1493,"94 Av. Emile Zola, 75015 Paris, France",2.2882805,48.8465244,2023-10-13
+1498,"57 Rue Saint-Denis, 92100 Boulogne-Billancourt, France",2.23261,48.8469738,2023-10-13
+1588,"14 Bd Saint-Germain, 75005 Paris, France",2.3543377,48.8496178,2023-11-29
+1734,"41 Rue Blomet, 75015 Paris, France",2.3056102,48.8424382,2024-01-30
+1783,"37 Bd Garibaldi, 75015 Paris, France",2.3065401,48.8467375,2024-02-21
+1801,"81B Rue Blomet, 75015 Paris, France",2.3021972,48.841404,2024-02-29
+1845,"15 Rue François Bonvin, 75015 Paris, France",2.3056394,48.8453108,2024-03-13
+1873,"48 Rue du Théâtre, 75015 Paris, France",2.2888752,48.848462,2024-03-25
+1988,"48 Rue du Théâtre, 75015 Paris, France",2.2888752,48.848462,2024-05-21
+2027,"36 Rue du Dr Roux, 75015 Paris, France",2.3099144,48.8400507,2024-06-04
+2042,"7 Rue Ernest Renan, 75015 Paris, France",2.3097192,48.8438491,2024-06-10
+2100,"11 Rue de Chambéry, 75015 Paris, France",2.3041448,48.8315094,2024-07-01
+2110,"4 Rue Brancion, 75015 Paris, France",2.3061731,48.8361431,2024-07-05
+2178,"10 All. Auguste Renoir, 92300 Levallois-Perret, France",2.2801599,48.898928,2024-08-19
+2319,"5 Rue Emile Duclaux, 75015 Paris, France",2.3086219,48.8429645,2024-10-16
+2335,"10 All. Auguste Renoir, 92300 Levallois-Perret, France",2.2801599,48.898928,2024-10-19
+2336,"101 Bd Haussmann, 75008 Paris, France",2.3177524,48.8748207,2024-10-19
+2337,"11 Rue Jeanne Hachette, 75015 Paris, France",2.298845,48.8407639,2024-10-21
+2359,"77 Rue Fondary, 75015 Paris, France",2.2974508,48.8466035,2024-10-31
+2403,"285 Rue de Vaugirard, 75015 Paris, France",2.3010825,48.8392832,2024-11-26
+2409,"2 Rue Ernest Renan, 75015 Paris, France",2.3092526,48.8442132,2024-11-29
+2591,"69 Rue de la Fédération, 75015 Paris, France",2.2967151,48.8532201,2025-01-27
+2865,"14 Rue Joseph Liouville, 75015 Paris, France",2.2975671,48.8440324,2025-05-07
+2916,"231 Rue de Vaugirard, 75015 Paris, France",2.3076851,48.8412994,2025-05-13
+3059,"3 Rue du Capitaine Scott, 75015 Paris, France",2.2940264,48.85423,2025-06-17
+3126,"17 Rue Gramme, 75015 Paris, France",2.296187,48.8450984,2025-07-08
+590,"35 Rue Falguière, 75015 Paris, France",2.316093,48.8425159,2022-11-25
+678,"20 Rue Ernest Renan, 75015 Paris, France",2.3098857,48.8431427,2023-01-07
+724,"28 Rue des Volontaires, 75015 Paris, France",2.3080245,48.8412308,2023-01-24
+958,"7 Rue d'Arsonval, 75015 Paris, France",2.3140653,48.8397619,2023-03-28
+1042,"7 Rue d'Arsonval, 75015 Paris, France",2.3140653,48.8397619,2023-04-21
+1139,"12 Rue Copreaux, 75015 Paris, France",2.3061944,48.8420727,2023-06-01
+1140,"12 Rue Copreaux, 75015 Paris, France",2.3061944,48.8420727,2023-06-01
+1161,"12 Rue Copreaux, 75015 Paris, France",2.3061944,48.8420727,2023-06-08
+1188,"2 Rue Ernest Renan, 75015 Paris, France",2.3092526,48.8442132,2023-06-13
+1280,"58 Rue du Cherche-Midi, 75006 Paris, France",2.3250568,48.8489722,2023-07-05
+1357,"34 Rue du Commerce, 75015 Paris, France",2.2959699,48.8473476,2023-08-01
+1367,"52 Av. Duquesne, 75007 Paris, France",2.313534,48.8492025,2023-08-07
+1411,"34 Rue du Commerce, 75015 Paris, France",2.2959699,48.8473476,2023-09-14
+1412,"2 Rue Ernest Renan, 75015 Paris, France",2.3092526,48.8442132,2023-09-14
+1944,"Paris 15, Paris, France",2.2927047,48.8421297,2024-04-24
+2231,"2 Rue des Favorites, 75015 Paris, France",2.3026329,48.8396759,2024-09-20
+2237,"18 Rue Gaston de Caillavet, 75015 Paris, France",2.2843719,48.8489515,2024-09-27
+2626,"42 Av. de Suffren, 75015 Paris, France",2.2959614,48.8539479,2025-02-10
+2636,"56 Rue Rouelle, 75015 Paris, France",2.2903792,48.849122,2025-02-24
+2711,"7 Rue Rosa Bonheur, Paris, France",2.3098356,48.8462108,2025-03-08
+2736,"92 Rue de l'Abbé Groult, Paris, France",2.2988594,48.8378229,2025-03-18
+2749,"5 Rue Viala, 75015 Paris, France",2.2918341,48.8505426,2025-03-20
+2827,"8 Rue Ernest Renan, 75015 Paris, France",2.3093523,48.8438156,2025-04-16
+2971,"32 Rue des Volontaires, 75015 Paris, France",2.3081242,48.8409074,2025-05-28
+2972,"24 Rue Jean Maridor, 75015 Paris, France",2.2864622,48.838728,2025-05-28
+2973,"96 Rue Lecourbe, 75015 Paris, France",2.3040278,48.8431695,2025-05-28
+3030,"22 Rue Emeriau, 75015 Paris, France",2.2872904,48.8510758,2025-06-23
+3056,"77 Rue de Javel, 75015 Paris, France",2.2843369,48.844651,2025-06-17
+3169,"208 Rue de Vaugirard, 75015 Paris, France",2.3065133,48.8413835,2025-07-30
+563,"42 Av. de Clichy, 75018 Paris, France",2.326435,48.886157,2022-11-08
+632,"24 Rue Rivay, 92300 Levallois-Perret, France",2.2910027,48.8927094,2022-12-08
+713,"67 Rue Caulaincourt, 75018 Paris, France",2.3361754,48.8896636,2023-01-26
+727,"9 Rue Francœur, 75018 Paris, France",2.3414198,48.8903461,2023-01-25
+929,"48 Rue Caulaincourt, 75018 Paris, France",2.3348452,48.888983,2023-03-16
+954,"41 Rue du Mont-Cenis, 75018 Paris, France",2.3421858,48.8889524,2023-03-22
+994,"88 Bd Voltaire, 75011 Paris, France",2.3753389,48.8604385,2023-04-14
+1082,"14 Bd Ornano, 75018 Paris, France",2.3492918,48.8925052,2023-05-11
+1221,"48 Blvd Marguerite de Rochechouart, 75018 Paris, France",2.3459969,48.8835223,2023-06-20
+1393,"12 Rue Lamarck, 75018 Paris, France",2.3446895,48.8871113,2023-09-05
+1507,"36 Rue de Clignancourt, 75018 Paris, France",2.3477699,48.8866121,2023-10-17
+1600,"4 Rue Hermel, 75018 Paris, France",2.3441219,48.8897973,2023-11-27
+1703,"30 Rue Simart, 75018 Paris, France",2.3470297,48.8916012,2024-01-19
+1708,"30 Rue Simart, 75018 Paris, France",2.3470297,48.8916012,2024-01-20
+1935,"36 Av. Junot, 75018 Paris, France",2.336686,48.8891422,2024-04-23
+1948,"245 Rue Saint-Honoré, 75001 Paris, France",2.3276367,48.8668324,2024-05-13
+1965,"39 Av. Junot, 75018 Paris, France",2.3359306,48.8891236,2024-05-07
+1999,"11 Rue Fauvet, 75018 Paris, France",2.3272486,48.8890188,2024-05-24
+2023,"9 Rue des Tennis, 75018 Paris, France",2.3293274,48.8950753,2024-06-05
+2070,"15 Rue de Lappe, Paris, France",2.3724232,48.853964,2024-06-21
+2071,"6 Rue Geulin, 92110 Clichy, France",2.3000065,48.9026324,2024-06-24
+2073,"3 Rue des Cottages, 75018 Paris, France",2.3372165,48.8907312,2024-06-25
+2081,"15 Rue de Lappe, Paris, France",2.3724232,48.853964,2024-06-27
+2111,"2 Rue Ravignan, 75018 Paris, France",2.3378242,48.8851445,2024-07-06
+2180,"16 Rue Duhesme, 75018 Paris, France",2.3384385,48.890701,2024-08-21
+2186,"183 Rue Championnet, 75018 Paris, France",2.3340557,48.8943497,2024-08-28
+2218,"12 Rue Girardon, 75018 Paris, France",2.3378693,48.8879444,2024-09-18
+2238,"63 Rue Caulaincourt, 75018 Paris, France",2.3355907,48.8896992,2024-09-26
+2558,"9 Rue de Trétaigne, 75018 Paris, France",2.3421257,48.8919827,2025-01-17
+2579,"9 Rue de Trétaigne, 75018 Paris, France",2.3421257,48.8919827,2025-01-23
+2598,"131 Rue Championnet, 75018 Paris, France",2.3370985,48.8951331,2025-01-30
+2680,"33 R. du Château Landon, 75010 Paris, France",2.3638181,48.8833769,2025-02-26
+2725,"19 Pl. Saint-Pierre, 75018 Paris, France",2.3428174,48.8842285,2025-03-19
+2783,"32 Rue des Abbesses, 75018 Paris, France",2.3371014,48.8851835,2025-03-28
+2867,"59 Rue Berthe, 75018 Paris, France",2.3382828,48.8859801,2025-05-06
+3097,"11 Rue Mansart, Paris, France",2.3324198,48.8820213,2025-06-24
+3128,"93 Rue Duhesme, 75018 Paris, France",2.3445373,48.8948239,2025-07-09
+558,"3 Sq. Caulaincourt, 75018 Paris, France",2.3355927,48.8900304,2022-11-04
+562,"84 Bd Barbès, 75018 Paris, France",2.3500276,48.8902377,2022-11-07
+616,"4 Rue Damrémont, 75018 Paris, France",2.3327625,48.8871739,2022-11-28
+675,"3 Rue Saint-Rustique, 75018 Paris, France",2.3406091,48.8869366,2023-01-04
+676,"26 Rue la Vieuville, 75018 Paris, France",2.3405655,48.8848136,2023-01-04
+725,"227 Rue Marcadet, 75018 Paris, France",2.3313911,48.891959,2023-01-24
+811,"30 Rue Lantiez, 75017 Paris, France",2.3240906,48.8949821,2023-02-02
+817,"227 Rue Marcadet, Paris, France",2.3313911,48.891959,2023-01-27
+856,"3 Vla de Guelma, 75018 Paris, France",2.3369926,48.8829609,2023-02-13
+894,"94 Rue du Ruisseau, 75018 Paris, France",2.3418952,48.8963417,2023-03-06
+895,"56 Bd de Clichy, 75018 Paris, France",2.3350867,48.8832819,2023-03-01
+910,"115 Bd Bessières, 75017 Paris, France",2.3152575,48.8947529,2023-03-08
+967,"15 Rue André del Sarte, 75018 Paris, France",2.3459051,48.8856835,2023-03-29
+1018,"115 Rue Marcadet, 75018 Paris, France",2.3423654,48.8911251,2023-04-18
+1033,"115 Rue Marcadet, 75018 Paris, France",2.3423654,48.8911251,2023-04-19
+1035,"75 Rue Philippe de Girard, 75018 Paris, France",2.3606312,48.8874149,2023-04-20
+1039,"36 Bd de Clichy, 75018 Paris, France",2.3364046,48.8829245,2023-04-20
+1053,"4 Rue Girardon, 75018 Paris, France",2.3375175,48.8875336,2023-04-27
+1247,"12 Rue Frochot, 75009 Paris, France",2.3375528,48.8816588,2023-06-26
+1274,"183 Rue Championnet, 75018 Paris, France",2.3340557,48.8943497,2023-07-06
+1387,"60 Blvd Marguerite de Rochechouart, 75018 Paris, France",2.344797,48.8833468,2023-08-31
+1395,"105 Rue Championnet, 75018 Paris, France",2.3405837,48.8956355,2023-09-06
+1499,"6 Rue Robert Planquette, 75018 Paris, France",2.3345025,48.8848567,2023-10-13
+1557,"37 Rue Lamarck, 75018 Paris, France",2.3415164,48.8892114,2023-11-07
+1568,"6 Rue Robert Planquette, 75018 Paris, France",2.3345025,48.8848567,2023-11-09
+1584,"8 Rue Myrha, 75018 Paris, France",2.3556355,48.8873778,2023-11-21
+1585,"8 Rue Myrha, 75018 Paris, France",2.3556355,48.8873778,2023-11-21
+1587,"77 Rue Vauvenargues, 75018 Paris, France",2.3296746,48.8970118,2023-11-22
+1617,"136 Rue Championnet, 75018 Paris, France",2.3370352,48.8953648,2023-12-05
+1751,"6 Rue de Clignancourt, 75018 Paris, France",2.3472499,48.8841411,2024-02-06
+1774,"71 Bis Rue Championnet, 75018 Paris, France",2.3446749,48.8957077,2024-02-14
+1871,"34 Rue Victor Massé, 75009 Paris, France",2.3369678,48.8811491,2024-03-22
+1881,"10 Rue des Gardes, 75018 Paris, France",2.3529649,48.8855818,2024-03-28
+1885,"54 Av. de Saint-Ouen, 75018 Paris, France",2.3269018,48.8907536,2024-04-02
+1936,"136 Rue Championnet, 75018 Paris, France",2.3370352,48.8953648,2024-04-24
+2000,"42 Rue du Landy, 93400 Saint-Ouen-sur-Seine, France",2.3353919,48.9161245,2024-05-27
+2052,"Rue Villiers de l'Isle Adam, 75020 Paris, France",2.3966301,48.8676708,2024-06-11
+641,"11 Rue des Roses, 75018 Paris, France",2.3619931,48.8931473,2022-12-12
+671,"18 Rue Saint-Rustique, 75018 Paris, France",2.3398387,48.8871883,2023-01-04
+677,"4 Rue Cavallotti, 75018 Paris, France",2.3286665,48.8860714,2023-01-09
+828,"13 Rue Marcadet, 75018 Paris, France",2.3541433,48.8904178,2023-02-04
+864,"15 Rue d'Oslo, 75018 Paris, France",2.3291933,48.8920957,2023-02-20
+868,"6 Rue Ganneron, 75018 Paris, France",2.3268586,48.8859903,2023-02-18
+883,"59 Rue Ramey, 75018 Paris, France",2.3453197,48.8902998,2023-02-24
+960,"6 Rue Hermel, 75018 Paris, France",2.3441959,48.8898941,2023-03-28
+969,"50 Rue Custine, 75018 Paris, France",2.3445245,48.8894988,2023-03-29
+1081,"229 Rue de Tolbiac, 75013 Paris, France",2.3449772,48.8258294,2023-05-10
+1086,"229 Rue de Tolbiac, 75013 Paris, France",2.3449772,48.8258294,2023-05-15
+1459,"2 Rue Barrault, 75013 Paris, France",2.3480593,48.8294782,2023-10-02
+1678,"137 Bd de la Reine, 78000 Versailles, France",2.1410163,48.8086437,2024-01-12
+1764,"87 Bd Auguste Blanqui, 75013 Paris, France",2.3466692,48.8298688,2024-02-13
+2642,"2311 Av. Roger Salengro, 92370 Chaville, France",2.18057,48.8046847,2025-02-17
+2726,"69 Rue Barrault, 75013 Paris, France",2.3468269,48.8244936,2025-03-17
+2767,"65 Rue de l'Amiral Mouchez, 75014 Paris, France",2.3425587,48.8216298,2025-03-27
+2820,"34 Rue Boussingault, 75013 Paris, France",2.34402,48.8248681,2025-04-14
+2821,"32 Rue de l'Espérance, 75013 Paris, France",2.3469475,48.82551,2025-04-14
+2859,"26 Rue Wurtz, 75013 Paris, France",2.3433223,48.825513,2025-04-29
+2878,"25 Rue Louis Bertrand, Ivry-sur-Seine, France",2.3798386,48.8170062,2025-05-10
+3047,"22 Rue Wurtz, Paris, France",2.343784,48.8260402,2025-06-12
+3048,"23 Rue Madeleine Brès, Paris, France",2.3493013,48.8214653,2025-06-13
+701,"153 Rue de Ménilmontant, 75020 Paris, France",2.3979212,48.8705377,2023-01-19
+710,"1 Rue Pixérécourt, 75020 Paris, France",2.3953771,48.8702827,2023-01-19
+833,"26 Rue Florian, 75020 Paris, France",2.4036135,48.8592785,2023-02-08
+855,"78 Rue Villiers de l'Isle Adam, 75020 Paris, France",2.3975232,48.8678653,2023-03-28
+907,"29 Rue Anatole France, 94270 Le Kremlin-Bicêtre, France",2.3611246,48.8079614,2023-03-08
+927,"50 Rue des Haies, 75020 Paris, France",2.4021691,48.8536516,2023-03-20
+974,"12 Rue de la Chine, 75020 Paris, France",2.3993928,48.8671252,2023-03-31
+1075,"242 Rue des Pyrénées, 75020 Paris, France",2.3963017,48.8679666,2023-05-05
+1091,"137 Rue Pelleport, 75020 Paris, France",2.3976513,48.8723213,2023-05-17
+1128,"220B Rue des Pyrénées, 75020 Paris, France",2.3975003,48.8664844,2023-05-31
+1134,"22b Rue de la Réunion, 75020 Paris, France",2.4032751,48.8534243,2023-06-06
+1148,"1 Rue du Retrait, 75020 Paris, France",2.3961166,48.867654,2023-06-05
+1167,"80 Rue Villiers de l'Isle Adam, 75020 Paris, France",2.3978547,48.8680175,2023-06-14
+1299,"9 Rue de l'Elysée Ménilmontant, 75020 Paris, France",2.3865813,48.8692992,2023-07-13
+1323,"9 Rue de l'Elysée Ménilmontant, 75020 Paris, France",2.3865813,48.8692992,2023-07-15
+1356,"9 Rue de l'Indre, 75020 Paris, France",2.4037141,48.8631865,2023-08-01
+1370,"10 Rue du Jourdain, 75020 Paris, France",2.3897074,48.8751408,2023-08-10
+1385,"10 Rue Haxo, 75020 Paris, France",2.4052493,48.8700326,2023-09-01
+1386,"47 Rue de Lappe, 75011 Paris, France",2.3740477,48.8531637,2023-09-08
+1458,"6 Imp. Saint-Sébastien, 75011 Paris, France",2.3708347,48.8609782,2023-10-02
+1487,"107 Av. Gambetta, 75020 Paris, France",2.4003024,48.8673033,2023-10-17
+1490,"12 Rue Boyer, 75020 Paris, France",2.3928461,48.8676509,2023-10-12
+1522,"5 Rue Saint-Fargeau, 75020 Paris, France",2.3997031,48.8710436,2023-10-23
+1682,"16 Rue Laurence Savart, 75020 Paris, France",2.3936249,48.8680627,2024-01-22
+2317,"38 Rue de la Chine, 75020 Paris, France",2.3973537,48.8689677,2024-10-16
+655,"8 Rue d'Annam, 75020 Paris, France",2.3939024,48.8664252,2022-12-17
+706,"8 Rue Orfila, 75020 Paris, France",2.3953131,48.8655546,2023-01-18
+861,"28 Rue de Fontarabie, 75020 Paris, France",2.4024017,48.8575115,2023-02-15
+900,"5 Rue des Couronnes, 75020 Paris, France",2.3813494,48.8694637,2023-03-03
+939,"12 Pass. des Soupirs, 75020 Paris, France",2.396468,48.8685041,2023-03-22
+1117,"68 Av. du Président Wilson, 93230 Romainville, France",2.4324647,48.882964,2023-05-25
+1249,"76 Rue de Belleville, 75020 Paris, France",2.384127,48.8732543,2023-06-24
+1301,"26 Rue d'Annam, 75020 Paris, France",2.3953411,48.8676006,2023-07-19
+1335,"26 Rue d'Annam, 75020 Paris, France",2.3953411,48.8676006,2023-07-24
+1373,"244 Rue des Pyrénées, 75020 Paris, France",2.3961121,48.8683246,2023-08-16
+1374,"26 Rue d'Annam, 75020 Paris, France",2.3953411,48.8676006,2023-08-16
+1428,"134 Rue des Couronnes, 75020 Paris, France",2.3895174,48.8725134,2023-09-20
+1478,"73 Rue Villiers de l'Isle Adam, 75020 Paris, France",2.3971929,48.8681055,2023-10-10
+1520,"283 Rue des Pyrénées, Paris, France",2.3953562,48.8686631,2023-10-19
+1552,"45 Rue Rebeval, Paris, France",2.3792655,48.8748452,2023-11-03
+1553,"147 Rue Manin, Paris, France",2.3928704,48.8853682,2023-11-03
+1620,"17 Av. de Stalingrad, 93170 Bagnolet, France",2.4274676,48.8750297,2023-12-08
+1665,"60 Cr de Vincennes, 75012 Paris, France",2.4042004,48.8472551,2024-01-06
+1787,"147 Rue Manin, Paris, France",2.3928704,48.8853682,2024-02-23
+1800,"17 Av. de Stalingrad, 93170 Bagnolet, France",2.4274676,48.8750297,2024-03-14
+1900,"337 Rue de Belleville, 75019 Paris, France",2.4049407,48.8768118,2024-04-10
+1901,"5 Rue des Montiboeufs, 75020 Paris, France",2.405604,48.8661604,2024-04-12
+1904,"16 Av. du Dr Vaillant, 93230 Romainville, France",2.4356946,48.8901132,2024-04-10
+1974,"110 Rue de Belleville, Paris, France",2.3872715,48.8745664,2024-05-13
+2016,"64 Rue de Romainville, 93260 Les Lilas, France",2.4173434,48.8775958,2024-06-03
+2033,"1 Passage du Surmelin, Paris, France",2.4057581,48.8695545,2024-06-07
+2158,"41 Rue de la Chine, 75020 Paris, France",2.3972866,48.8686937,2024-07-25
+2169,"41 Rue de la Chine, 75020 Paris, France",2.3972866,48.8686937,2024-08-01
+2243,"51 Av. Gambetta, 75020 Paris, France",2.3942717,48.8647122,2024-09-28
+2328,"342 Rue des Pyrénées, 75020 Paris, France",2.3886036,48.8739291,2024-10-23
+2347,"55 Rue Bisson, 75020 Paris, France",2.3828941,48.8703249,2024-10-24
+2417,"14 Rue d'Annam, 75020 Paris, France",2.3943625,48.8668744,2024-12-03
+2462,"3 Rue des Lyanes, Paris, France",2.4061891,48.8626548,2024-12-13
+2463,"145 Bd Davout, Paris, France",2.40931,48.8587861,2024-12-13
+2464,"11 Rue du Cher, Paris, France",2.4003346,48.8644045,2024-12-13
+2547,"11 Rue du Cher, 75020 Paris, France",2.3996969,48.8645622,2025-01-16
+2600,"91 Rue Villiers de l'Isle Adam, 75020 Paris, France",2.3987739,48.8684814,2025-02-03
+2742,"42 Rue de la Chine, 75020 Paris, France",2.397197,48.869294,2025-03-18
+3044,"351 Rue des Pyrénées, Paris, France",2.3912843,48.8721947,2025-06-16
+3066,"9 Rue de l'Indre, 75020 Paris, France",2.4037141,48.8631865,2025-06-20
+3073,"351 Rue des Pyrénées, Paris, France",2.3912843,48.8721947,2025-06-20
+3093,"15 Vla de la Convention, 93230 Romainville, France",2.4459915,48.8810215,2025-06-27
+3094,"242 Rue des Pyrénées, 75020 Paris, France",2.3963089,48.8679798,2025-06-27
+3131,"2 Pl. Martin Nadaud, 75020 Paris, France",2.3950647,48.8652058,2025-07-09
+569,"262 Rue des Pyrénées, 75020 Paris, France",2.3952218,48.8693622,2022-11-10
+735,"6 Vla Perreur, 75020 Paris, France",2.4053596,48.8682252,2023-01-26
+844,"41 Quai de Valmy, 75010 Paris, France",2.3662855,48.8695034,2023-02-09
+876,"73 Rue Villiers de l'Isle Adam, 75020 Paris, France",2.3971929,48.8681055,2023-02-24
+971,"11 Pass. des Soupirs, 75020 Paris, France",2.3962668,48.8687247,2023-03-29
+973,"50 Rue de Ménilmontant, 75020 Paris, France",2.3877351,48.8681402,2023-03-30
+976,"59 Rue de la Chine, 75020 Paris, France",2.3957519,48.8697877,2023-03-30
+1085,"6 All. des Eiders, 75019 Paris, France",2.3788338,48.8941779,2023-05-11
+1112,"6 All. des Eiders, 75019 Paris, France",2.3788338,48.8941779,2023-05-24
+1115,"22 Rue d'Annam, 75020 Paris, France",2.3947524,48.8672554,2023-05-24
+1130,"4 Vla Perreur, 75020 Paris, France",2.4049763,48.8681174,2023-06-01
+1135,"25 Rue de la Duée, 75020 Paris, France",2.3970586,48.8715224,2023-06-01
+1138,"25 Rue de la Duée, 75020 Paris, France",2.3970586,48.8715224,2023-06-02
+1216,"50 Rue de Ménilmontant, 75020 Paris, France",2.3877351,48.8681402,2023-06-19
+1502,"36 Rue Boyer, 75020 Paris, France",2.3922514,48.8688819,2023-10-13
+1516,"13 Rue des Gâtines, 75020 Paris, France",2.3977239,48.8654652,2023-10-19
+1517,"97 Rue Pelleport, 75020 Paris, France",2.3994835,48.8699678,2023-10-20
+1591,"28ter Rue Belgrand, 75020 Paris, France",2.402418,48.8645928,2023-11-23
+1656,"37 Rue Orfila, 75020 Paris, France",2.3967157,48.8666205,2023-12-22
+1894,"28ter Rue Belgrand, 75020 Paris, France",2.402418,48.8645928,2024-04-05
+1958,"81 Rue des Prairies, 75020 Paris, France",2.4006906,48.8637055,2024-05-03
+1983,"88 Rue des Rondeaux, 75020 Paris, France",2.396263,48.8648271,2024-05-17
+2059,"45 Rue Emile Zola, 93120 La Courneuve, France",2.3865391,48.9223503,2024-06-18
+2091,"Rue Pixérécourt, 75020 Paris, France",2.3961199,48.8726128,2024-07-02
+2104,"Rue Pixérécourt, 75020 Paris, France",2.3961199,48.8726128,2024-07-05
+2120,"12 Rue Pixérécourt, 75020 Paris, France",2.3954898,48.870707,2024-07-09
+2122,"23 Pass. Gambetta, 75020 Paris, France",2.4014302,48.8729147,2024-07-11
+2176,"119 Rue des Pyrénées, 75020 Paris, France",2.4039384,48.8570288,2024-08-09
+2220,"26 Rue du Borrégo, 75020 Paris, France",2.40047,48.8728848,2024-09-19
+2274,"10 Pass. Gambetta, 75020 Paris, France",2.4021124,48.8721692,2024-10-04
+2283,"152 Rue Pelleport, 75020 Paris, France",2.3981396,48.872228,2024-10-10
+2295,"65 Rue Saint-Fargeau, 75020 Paris, France",2.4061289,48.8723137,2024-10-14
+2355,"28 Rue du Borrégo, 75020 Paris, France",2.4004396,48.8728836,2024-11-05
+2378,"7 Pl. de l'Adjudant Vincenot, 75020 Paris, France",2.407751,48.8710876,2024-11-18
+2476,"351 Rue des Pyrénées, 75020 Paris, France",2.3913527,48.87221,2024-12-23
+2494,"16 Chem. de Bellevue, 95170 Deuil-la-Barre, France",2.3258319,48.9819443,2024-12-26
+2515,"351 Rue des Pyrénées, Paris, France",2.3913527,48.87221,2025-01-10
+2607,"285 Rue des Pyrénées, 75020 Paris, France",2.3951219,48.8688369,2025-02-03
+2608,"9 Rue de l'Indre, 75020 Paris, France",2.4037141,48.8631865,2025-02-03
+2640,"22 Rue du Borrégo, 75020 Paris, France",2.4004396,48.8728836,2025-02-14
+2697,"85 Rue de Ménilmontant, 75020 Paris, France",2.3901927,48.8689661,2025-03-07
+2811,"96 Rue Villiers de l'Isle Adam, 75020 Paris, France",2.3991688,48.868436,2025-04-11
+2812,"11 Rue d'Avron, 75020 Paris, France",2.3990891,48.8518381,2025-04-18
+2815,"11 Pass. des Soupirs, 75020 Paris, France",2.3962668,48.8687247,2025-04-11
+2872,"22 Rue Montgolfier, 93500 Pantin, France",2.4036942,48.893981,2025-05-12
+2928,"28bis Rue de la Réunion, 75020 Paris, France",2.402963,48.853802,2025-05-20
+2942,"30 Rue Sorbier, 75020 Paris, France",2.3918531,48.8662361,2025-05-26
+2948,"140 Rue Pelleport, 75020 Paris, France",2.3989581,48.8713218,2025-05-26
+2966,"3 Rue Bretonneau, 75020 Paris, France",2.4025206,48.8674559,2025-05-30
+3029,"87 Rue de Ménilmontant, 75020 Paris, France",2.3905875,48.8689814,2025-06-11
+3061,"87 Rue de Ménilmontant, 75020 Paris, France",2.3905875,48.8689814,2025-06-18
+3142,"1 Rue Pixérécourt, 75020 Paris, France",2.3957464,48.8702117,2025-07-16
+661,"136 Rue Aristide Briand, 92300 Levallois-Perret, France",2.2953942,48.8953063,2022-12-28
+686,"136 Rue Aristide Briand, 92300 Levallois-Perret, France",2.2953942,48.8953063,2023-01-10
+711,"92 Rue Baudin, 92300 Levallois-Perret, France",2.2887191,48.8989063,2023-01-20
+720,"20 Rue Parmentier, 92200 Neuilly-sur-Seine, France",2.2820707,48.8844357,2023-03-20
+1096,"56 Rue de Sablonville, 92200 Neuilly-sur-Seine, France",2.2767425,48.8803378,2023-05-17
+1528,"28 Rue Parmentier, 92200 Neuilly-sur-Seine, France",2.2825567,48.8850396,2023-10-27
+643,"25 Rue Trezel, 92300 Levallois-Perret, France",2.2942359,48.8958125,2022-12-21
+660,"25 Rue Trezel, 92300 Levallois-Perret, France",2.2942359,48.8958125,2022-12-20
+718,"16 Pl. du Marché, 92200 Neuilly-sur-Seine, France",2.2752288,48.88086,2023-01-20
+891,"34 Rue des Tournelles, 75004 Paris, France",2.3673849,48.8554543,2023-02-28
+955,"34 Rue des Tournelles, Paris, France",2.3673849,48.8554543,2023-03-21
+1376,"16 Bd du Parc, 92200 Neuilly-sur-Seine, France",2.2651955,48.8937316,2023-08-19
+1456,"5 Rue Brey, 75017 Paris, France",2.2960506,48.8761293,2023-09-29
+544,"18 All. du Clocher, 92500 Rueil-Malmaison, France",2.1526076,48.8577475,2022-11-02
+877,"120 Rue St Charles, 75015 Paris, France",2.283329,48.8444521,2023-03-03
+617,"29 Rue de Turin, 75008 Paris, France",2.3241862,48.8823483,2022-12-01
+841,"30 Av. Jean Moulin, 78380 Bougival, France",2.1383256,48.8557828,2023-02-10
+913,"12 Rue de Bucarest, 75008 Paris, France",2.3257873,48.8809008,2023-03-20
+1340,"23 Rue Scheffer, 75116 Paris, France",2.2826878,48.8612777,2023-07-28
+1345,"23 Rue Scheffer, 75116 Paris, France",2.2826878,48.8612777,2023-08-01
+1661,"82 Rue de Charenton, 75012 Paris, France",2.3753007,48.8486601,2024-01-02
+1823,"2 Av. du Printemps, 95870 Bezons, France",2.2111867,48.9293192,2024-03-13
+1932,"18 Rue Boursault, 75017 Paris, France",2.3206186,48.883457,2024-04-19
+2001,"52 Rue Blanche, 75009 Paris, France",2.33157,48.8802285,2024-05-24
+2068,"11 Rue Fénelon, 75010 Paris, France",2.3512724,48.8788456,2024-06-20
+2130,"11 Rue de Saint-Pétersbourg, 75008 Paris, France",2.3244714,48.8805491,2024-07-13
+2228,"27 Rue de Saint-Pétersbourg, 75008 Paris, France",2.3255845,48.8819356,2024-09-19
+2428,"27 Rue Robert de Flers, 75015 Paris, France",2.2834281,48.848767,2024-12-06
+3012,"21 Pass. Lathuille, 75018 Paris, France",2.328224,48.8848022,2025-06-11
+3134,"36 Ter Rue de Crimée, 75019 Paris, France",2.3901858,48.8792225,2025-07-10
+548,"17 Rue Faidherbe, 75011 Paris, France",2.3832367,48.8519323,2022-11-02
+847,"28 boulevard Malesherbes, 75008 Paris, France",2.3212936,48.8732267,2023-02-10
+904,"28 Boulevard Malesherbes, 75008 Paris, France",2.3212936,48.8732267,2023-03-12
+1381,"26 Rue d'Aligre, Paris, France",2.3787995,48.8496671,2023-08-30
+1382,"202 Bd Voltaire, Paris, France",2.3866143,48.8536915,2023-08-30
+1959,"Paris, France",2.3513765,48.8575475,2024-05-02
+2030,"Paris, France",2.3513765,48.8575475,2024-06-03
+2151,"Paris, France",2.3513765,48.8575475,2024-07-05
+2173,"Boulevard Haussmann, Paris, France",2.3331784,48.8729725,2024-08-02
+2195,"Paris, France",2.3513765,48.8575475,2024-09-02
+1102,"147 Bd Voltaire, 75011 Paris, France",2.3842047,48.8555753,2023-05-22
+1123,"24 Bd du Temple, 75011 Paris, France",2.3659808,48.8648486,2023-05-26
+1206,"4 Rue de Vaucouleurs, 75011 Paris, France",2.3781817,48.8684196,2023-06-22
+1235,"4 rue de Vaucouleurs, 75011 Paris, France",2.3781817,48.8684196,2023-06-26
+1281,"145bis Bd Voltaire, 75011 Paris, France",2.3840985,48.8556386,2023-07-05
+1491,"44 Rue Emile Lepeu, 75011 Paris, France",2.3882477,48.856747,2023-10-19
+1582,"52 Rue de la Folie Méricourt, 75011 Paris, France",2.3719609,48.8642004,2023-11-23
+1601,"24 Rue Paul Vaillant Couturier, 94700 Maisons-Alfort, France",2.4313197,48.8038531,2023-11-28
+1662,"16 Av. Sainte-Marie, 94160 Saint-Mandé, France",2.4184886,48.8364852,2024-01-03
+1731,"54 Rue Godefroy Cavaignac, 75011 Paris, France",2.380016,48.8572177,2024-02-01
+1741,"22 Rue Godefroy Cavaignac, 75011 Paris, France",2.3812583,48.8552648,2024-02-05
+1818,"154 Rue Oberkampf, 75011 Paris, France",2.3819876,48.8665384,2024-03-05
+1821,"154 Rue Oberkampf, 75011 Paris, France",2.3819876,48.8665384,2024-03-05
+1834,"12 Rue Arthur Croquette, 94220 Charenton-le-Pont, France",2.4144564,48.8200652,2024-03-12
+1929,"1 Rue Jules Vallès, 75011 Paris, France",2.3849911,48.8527483,2024-04-19
+1973,"55 Pass. du Bureau, 75011 Paris, France",2.3945145,48.8535674,2024-05-10
+1976,"57 Rue Alexandre Dumas, 75011 Paris, France",2.3954356,48.8542875,2024-05-14
+2084,"34 Rue Servan, Paris, France",2.3828074,48.8614702,2024-06-27
+2125,"169 Rue du Faubourg Saint-Antoine, 75011 Paris, France",2.3804223,48.8505941,2024-07-18
+2215,"38 Rue de la Folie-Regnault, 75011 Paris, France",2.3874303,48.8587116,2024-09-13
+2385,"86 Rue Philippe de Girard, 75018 Paris, France",2.360701,48.8890007,2024-11-21
+1015,"26 rue de Turin, 
+75008 Paris, France",2.3247448,48.8817381,2023-04-20
+1114,"4 Av. Percier, 75008 Paris, France",2.3146429,48.8739324,2023-05-26
+1186,"17 Rue des États Généraux, 78000 Versailles, France",2.1329678,48.8001386,2023-06-14
+950,"229 rue de Tolbiac , 75013 Paris, France",2.3449772,48.8258294,2023-03-23
+1054,"39 Rue de la Glacière, 75013 Paris, France",2.3447671,48.8330445,2023-04-26
+1227,"123 Bd Masséna, 75013 Paris, France",2.3625982,48.8191627,2023-06-21
+1338,"55 Rue Diderot, 94500 Champigny-sur-Marne, France",2.4891189,48.8132373,2023-07-26
+2814,"57 Rue Pixérécourt, 75020 Paris, France",2.3958512,48.8733355,2025-04-11
+3170,"73 Rue Brillat Savarin, 75013 Paris, France",2.3426449,48.8234648,2025-07-28
+3189,"9 Rue des Tanneries, 75013 Paris, France",2.3459642,48.8338165,2025-08-06
+1041,"18 Rue Eugénie Eboué, 92600 Asnières-sur-Seine, France",2.3182144,48.9189189,2023-04-21
+1092,"52 Rue Damesme, 75013 Paris, France",2.3551851,48.8219333,2023-05-23
+1171,"39 Av. Didier, 94210 Saint-Maur-des-Fossés, France",2.5118834,48.7993411,2023-06-09
+1539,"12bis Rue Martin Bernard, 75013 Paris, France",2.3502741,48.8266872,2023-11-03
+1638,"8 Rue de Reims, 75013 Paris, France",2.3717463,48.8287161,2023-12-14
+2692,"165 Rue de Tolbiac, 75013 Paris, France",2.3545077,48.8258935,2025-02-28
+2733,"29 Rue Caillaux, 75013 Paris, France",2.3595176,48.82228,2025-03-18
+2737,"37 Rue Nationale, 75013 Paris, France",2.3676562,48.8242161,2025-03-19
+2810,"16 Rue Vandrezanne, 75013 Paris, France",2.3545175,48.8278025,2025-04-10
+2837,"242 Rue de Tolbiac, 75013 Paris, France",2.3421455,48.8265468,2025-04-17
+3157,"51 Rue de l'Espérance, 75013 Paris, France",2.3468596,48.8250153,2025-07-23
+1658,"39A Rue de la Grange aux Belles, 75010 Paris, France",2.366666,48.8758053,2023-12-28
+1760,"39 Rue de la Grange aux Belles, 75010 Paris, France",2.3674476,48.8756025,2024-02-08
+1777,"4 Av. Anatole France, 93500 Pantin, France",2.4251432,48.8948363,2024-02-22
+1789,"4 Av. Anatole France, 93500 Pantin, France",2.4251432,48.8948363,2024-02-22
+1846,"13 Rue de l'Hôpital Saint-Louis, 75010 Paris, France",2.3647698,48.8751143,2024-03-19
+2086,"7 Cité Hittorf, 75010 Paris, France",2.3588143,48.8717323,2024-06-27
+1285,"23 Av. du Château, 94300 Vincennes, France",2.4366024,48.8465926,2023-07-06
+1286,"23 Av. du Château, 94300 Vincennes, France",2.4366024,48.8465926,2023-07-06
+1287,"23 Av. du Château, 94300 Vincennes, France",2.4366024,48.8465926,2023-07-06
+1331,"2 Rue Mallier, 94120 Fontenay-sous-Bois, France",2.4628031,48.8450448,2023-07-24
+1513,"18 Rue Beccaria, 75012 Paris, France",2.3792039,48.847591,2023-10-19
+1524,"2 Rue Mallier, 94120 Fontenay-sous-Bois, France",2.4628031,48.8450448,2023-10-24
+1597,"192 Rue du Faubourg Saint-Antoine, 75012 Paris, France",2.3837095,48.8499758,2023-11-24
+1606,"16 Rue Parrot, 75012 Paris, France",2.374801,48.846902,2023-11-30
+1628,"Rue de l'Union, 94500 Champigny-sur-Marne, France",2.5093077,48.8154733,2023-12-11
+1629,"Rue de l'Union, 94500 Champigny-sur-Marne, France",2.5093077,48.8154733,2023-12-11
+1769,"88 Rue Saint-Antoine, 75004 Paris, France",2.3624701,48.8549742,2024-02-15
+1829,"33 rue du Niger, Paris, France",2.4067752,48.8442288,2024-03-07
+1847,"25 Rue Richard Lenoir, 75011 Paris, France",2.3815544,48.855652,2024-03-20
+1886,"276 Rue du Faubourg Saint-Antoine, 75012 Paris, France",2.3934764,48.8485563,2024-04-02
+2010,"152 Rue de la République, 92800 Puteaux, France",2.2357818,48.8842432,2024-05-29
+2020,"72 Rue Crozatier, 75012 Paris, France",2.3793719,48.8500513,2024-06-04
+2121,"87 Rue de Charenton, 75012 Paris, France",2.3754154,48.8488459,2024-07-10
+2148,"34 Rue Désiré Chevalier, 93100 Montreuil, France",2.4457813,48.8574556,2024-07-24
+2246,"5 Rue Elisa Lemonnier, 75012 Paris, France",2.3899138,48.8402798,2024-10-08
+2248,"223 Rue de Charenton, 75012 Paris, France",2.3904053,48.8382143,2024-10-02
+2298,"65 Rue de Charonne, Paris, France",2.3799724,48.8536692,2024-10-09
+2333,"65 Rue de Charonne, 75011 Paris, France",2.3799724,48.8536692,2024-10-19
+2334,"65 Rue de Charonne, 75011 Paris, France",2.3799724,48.8536692,2024-10-19
+2352,"23 Av. du Château, 94300 Vincennes, France",2.4365907,48.8465859,2024-10-25
+2354,"150 Rue de Charenton, 75012 Paris, France",2.3810677,48.8451796,2024-10-29
+2410,"4 Rue Saint-Bernard, 75011 Paris, France",2.3816399,48.8507067,2024-12-03
+2411,"23 Av. du Château, 94300 Vincennes, France",2.4365907,48.8465859,2024-12-04
+2439,"11 Rue Erard, 75012 Paris, France",2.3851521,48.845928,2024-12-06
+2501,"6 bis Rue de Candie, 75011 Paris, France",2.3794741,48.8513455,2024-12-27
+2510,"6 bis Rue de Candie, 75011 Paris, France",2.3794741,48.8513455,2025-01-03
+2551,"14 Rue d'Aligre, Paris, France",2.3779151,48.8483628,2025-01-15
+2599,"23 Av. du Château, 94300 Vincennes, France",2.4365907,48.8465859,2025-01-30
+2717,"99 Rue de Reuilly, 75012 Paris, France",2.3911661,48.8438245,2025-03-12
+2730,"14 Rue d'Aligre, 75012 Paris, France",2.3779151,48.8483628,2025-03-17
+2747,"15 Rue d'Aligre, Paris, France",2.3783487,48.8495249,2025-03-19
+2766,"137 Rue du Faubourg Saint-Antoine, 75011 Paris, France",2.377971,48.8509897,2025-03-27
+2809,"10 Pass. de la Main d'Or, 75011 Paris, France",2.3781741,48.8520436,2025-04-11
+2848,"154 Rue de Picpus, 75012 Paris, France",2.4036463,48.8350393,2025-04-25
+2979,"8 Rue Fabre d'Eglantine, 75012 Paris, France",2.3958718,48.8464798,2025-06-02
+2987,"6 Passage de la Boule Blanche, Paris, France",2.3727435,48.8517648,2025-05-28
+3011,"4 Rue d'Aligre, 75012 Paris, France",2.3773816,48.8479119,2025-06-05
+3069,"171 Rue du Faubourg Saint-Antoine, 75011 Paris, France",2.3806146,48.8507542,2025-06-24
+3077,"7 Rue Georges Huchon, Vincennes, France",2.421387,48.847521,2025-06-23
+3152,"36 Bd Diderot, 75012 Paris, France",2.377025,48.8460574,2025-07-22
+3164,"18 Rue Beccaria, 75012 Paris, France",2.3792219,48.8476355,2025-07-24
+1158,"65 Rue d'Amsterdam, 75008 Paris, France",2.3270058,48.8811832,2023-06-08
+1191,"65 Rue d'Amsterdam, 75008 Paris, France",2.3270058,48.8811832,2023-06-14
+1372,"3 Avenue de Laumière, Paris, France",2.3812017,48.8828424,2023-08-12
+1452,"19 Rue de Moscou, 75008 Paris, France",2.3239973,48.8809114,2023-10-06
+1561,"14 rue de Moscou, Paris, France",2.3259095,48.8803072,2023-11-10
+1577,"14 rue de Moscou, 75008 Paris, France",2.3259095,48.8803072,2023-11-17
+1196,"56 Rue de Sablonville, 92200 Neuilly-sur-Seine, France",2.2767425,48.8803378,2023-06-14
+1333,"15 Imp. du Mont, 94400 Vitry-sur-Seine, France",2.3782601,48.7841782,2023-07-22
+1365,"76 Rue Vergniaud, 75013 Paris, France",2.3443403,48.8238565,2023-08-07
+1415,"79 Rue Brillat Savarin, 75013 Paris, France",2.3427718,48.8238487,2023-09-15
+1448,"84 Rue Vergniaud, 75013 Paris, France",2.3440723,48.8231444,2023-09-26
+1554,"81 Rue de la Santé, 75013 Paris, France",2.341775,48.8310073,2023-11-04
+1559,"41 Rue François Pinson, 92320 Châtillon, France",2.2815089,48.8082834,2023-11-08
+1563,"81 Rue de la Santé, 75013 Paris, France",2.341775,48.8310073,2023-11-10
+1564,"81 Rue de la Santé, 75013 Paris, France",2.341775,48.8310073,2023-11-10
+1619,"39 Rue de Tolbiac, 75013 Paris, France",2.3723815,48.8279928,2023-12-07
+1680,"6 Rue Chéreau, 75013 Paris, France",2.3514399,48.827446,2024-01-11
+1782,"5 Rue Vivienne, 75002 Paris, France",2.3389067,48.8672227,2024-02-29
+2611,"6 Pl. Pierre Riboulet, 75013 Paris, France",2.3494541,48.8219143,2025-02-05
+2695,"29 Rue Boussingault, 75013 Paris, France",2.3440119,48.8241146,2025-03-04
+2845,"2 Rue de Domrémy, 75013 Paris, France",2.374107,48.8309917,2025-04-30
+2851,"19 Rue Barrault, 75013 Paris, France",2.3475598,48.8283329,2025-04-28
+938,"52 Av. du Général de Gaulle, 94700 Maisons-Alfort, France",2.421367,48.8132835,2023-03-20
+1451,"35 Av. Simon Bolivar, 75019 Paris, France",2.3813724,48.8756814,2023-09-28
+2139,"46 Av. Simon Bolivar, 75019 Paris, France",2.3788211,48.8765432,2024-07-19
+2152,"23 Rue Clavel, 75019 Paris, France",2.3835858,48.8753416,2024-07-25
+2299,"97 Rue des Couronnes, 75020 Paris, France",2.3891361,48.8720209,2024-10-09
+2447,"16 Rue des Annelets, 75019 Paris, France",2.3897152,48.8778977,2024-12-10
+2448,"16 Rue des Annelets, 75019 Paris, France",2.3897152,48.8778977,2024-12-10
+2631,"3 Sq. Bolivar, 75019 Paris, France",2.382927,48.8757184,2025-02-12
+2724,"6 Rue Pradier, 75019 Paris, France",2.3815509,48.8749659,2025-03-13
+2920,"1 Rue Affre, 75018 Paris, France",2.355705,48.8851716,2025-05-20
+2975,"36 Rue de l'Orillon, 75011 Paris, France",2.377466,48.870474,2025-05-30
+2990,"116 Rue des Couronnes, 75020 Paris, France",2.3891243,48.8713708,2025-06-03
+3022,"9 Vla Paul Verlaine, 75019 Paris, France",2.3893347,48.8814915,2025-06-18
+3107,"66 Av. Simon Bolivar, 75019 Paris, France",2.3766466,48.8765003,2025-07-02
+3140,"45 Rue de Meaux, 75019 Paris, France",2.3727566,48.8808028,2025-07-15
+1040,"6 Rue Rémy Dumoncel, 75014 Paris, France",2.3332663,48.8298507,2023-04-25
+1045,"6 Rue de Nantes, 75019 Paris, France",2.3833602,48.8912966,2023-04-25
+1090,"64 Rue de la Villette, 75019 Paris, France",2.3880801,48.8778447,2023-05-17
+1347,"24 Av. Simon Bolivar, 75020 Paris, France",2.3833187,48.8746492,2023-07-29
+1436,"23 Rue Clavel, Paris, France",2.3835996,48.8753504,2023-09-23
+1437,"23 Rue Clavel, Paris, France",2.3835996,48.8753504,2023-09-23
+1438,"23 Rue Clavel, Paris, France",2.3835996,48.8753504,2023-09-23
+1462,"16 Rue des Annelets, 75019 Paris, France",2.3897152,48.8778977,2023-10-03
+1541,"24 Rue d'Hautpoul, 75019 Paris, France",2.3885131,48.8821992,2023-11-03
+1573,"43b Av. Simon Bolivar, 75019 Paris, France",2.380597,48.875983,2023-11-15
+1575,"41 Bd d'Indochine, 75019 Paris, France",2.3958361,48.8876292,2023-11-18
+1578,"23 Rue Clavel, 75019 Paris, France",2.3835996,48.8753504,2023-11-16
+1616,"54 Av. Simon Bolivar, 75019 Paris, France",2.3781034,48.8766637,2023-12-05
+1624,"23 Rue Clavel, 75019 Paris, France",2.3835996,48.8753504,2023-12-08
+1646,"23 Rue Clavel, 75019 Paris, France",2.3835996,48.8753504,2023-12-14
+1647,"23 Rue Clavel, 75019 Paris, France",2.3835996,48.8753504,2023-12-14
+1648,"23 Rue Clavel, 75019 Paris, France",2.3835996,48.8753504,2023-12-14
+1664,"22 Rue André del Sarte, 75018 Paris, France",2.3453384,48.8859624,2024-01-08
+1695,"23 Rue Clavel, 75019 Paris, France",2.3835996,48.8753504,2024-01-17
+1697,"90 Av. Jean Jaurès, 75019 Paris, France",2.3787985,48.8848394,2024-01-18
+1705,"1 Imp. des Anglais, 75019 Paris, France",2.3760462,48.8890086,2024-01-18
+1749,"34 Rue d'Aubervilliers, 75019 Paris, France",2.3663924,48.8859545,2024-02-07
+1809,"3 Rue de Bellevue, 75019 Paris, France",2.3925948,48.8792589,2024-03-04
+1811,"29 Av. Simon Bolivar, 75019 Paris, France",2.3820975,48.8751907,2024-03-08
+1995,"52 Rue Rebeval, 75019 Paris, France",2.3799144,48.8747081,2024-05-24
+2002,"25 Rue d'Hautpoul, 75019 Paris, France",2.3880613,48.8820508,2024-05-24
+2026,"1 Rue Pradier, 75019 Paris, France",2.381067,48.8747784,2024-06-05
+2051,"32 Rue des Alouettes, 75019 Paris, France",2.3858145,48.8780768,2024-06-11
+2066,"18 Rue Clavel, 75019 Paris, France",2.3837759,48.8756317,2024-06-25
+2096,"30 Av. Simon Bolivar, 75019 Paris, France",2.3830217,48.8748293,2024-07-02
+2098,"23 Rue Clavel, 75019 Paris, France",2.3835858,48.8753416,2024-07-04
+2099,"23 Rue Clavel, 75019 Paris, France",2.3835858,48.8753416,2024-07-04
+2116,"23 Rue Clavel, 75019 Paris, France",2.3835858,48.8753416,2024-07-05
+2131,"6 Sq. Bolivar, 75019 Paris, France",2.3833201,48.875528,2024-07-17
+2285,"42 Rue Olivier Métra, 75020 Paris, France",2.3935536,48.8741483,2024-10-02
+2412,"59 Av. Simon Bolivar, 75019 Paris, France",2.3785095,48.8762619,2024-11-29
+587,"10 Rue Berteaux Dumas, 92200 Neuilly-sur-Seine, France",2.275224,48.8816267,2022-11-18
+702,"56 Rue Sablonville, 92200 Neuilly sur Seine, France",2.2767425,48.8803378,2023-01-27
+975,"30 Rue Charles Laffitte, 92200 Neuilly-sur-Seine, France",2.2735556,48.8794208,2023-03-31
+1010,"16 Pl. du Marché, 92200 Neuilly-sur-Seine, France",2.2752288,48.88086,2023-04-17
+1048,"6 Rue Armand Silvestre, 92400 Courbevoie, France",2.2622847,48.8995804,2023-04-24
+1079,"53 Rue Olivier de Serres, 75015 Paris, France",2.2955212,48.8341717,2023-05-10
+1103,"16 Place du Marché, Neuilly-sur-Seine, France",2.2752288,48.88086,2023-05-22
+1170,"45 Rue du Président Wilson, 92300 Levallois-Perret, France",2.2904427,48.8917567,2023-06-09
+1195,"43 Rue du 22 Septembre, 92400 Courbevoie, France",2.2706748,48.9045551,2023-06-14
+1342,"22 Avenue Charles de Gaulle, Neuilly-sur-Seine, France",2.2790469,48.8792888,2023-07-28
+1360,"156 Bd Malesherbes, 75017 Paris, France",2.3062138,48.8864085,2023-08-03
+1384,"22 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine, France",2.2790469,48.8792888,2023-08-31
+1666,"41 R. des Martyrs, 75009 Paris, France",2.3399621,48.8796918,2024-01-04
+1762,"33 Av. de la Commune de Paris, 92000 Nanterre, France",2.1985506,48.8992525,2024-02-14
+1795,"62 Bd du général Leclerc, 92200 Neuilly",2.0932924,48.8983942,2024-02-28
+1842,"55 Rue de Villiers Neuilly, 92200 Neuilly",2.3476634,48.8909417,2024-03-13
+1956,"16 Place du Marché, Neuilly-sur-Seine, France",2.2752288,48.88086,2024-05-03
+3199,"85 Rue de Villiers, Neuilly-sur-Seine, France",2.273778,48.8956463,2025-08-11
+995,"6 Rue Armand Silvestre, 92400 Courbevoie, France",2.2622847,48.8995804,2023-04-13
+1118,"3 Rue de Bagatelle, 92200 Neuilly-sur-Seine, France",2.252043,48.8757713,2023-05-30
+1013,"45 Rue Ordener, 75018 Paris, France",2.3526436,48.8908045,2023-04-18
+1129,"95 Rue Duhesme, 75018 Paris, France",2.3446099,48.8949218,2023-05-30
+1143,"128 Rue du Mont-Cenis, 75018 Paris, France",2.347608,48.8971815,2023-06-02
+1341,"103 Av. Philippe Auguste, 75011 Paris, France",2.3905416,48.8565512,2023-07-28
+1361,"279 Rue du Faubourg Saint-Antoine, 75011 Paris, France",2.3895439,48.8495285,2023-09-01
+1364,"215 Bd Voltaire, 75011 Paris, France",2.3902579,48.8520502,2023-08-04
+1371,"215 Bd Voltaire, 75011 Paris, France",2.3902579,48.8520502,2023-08-14
+1440,"8 Rue Paul Bert, Paris, France",2.3848031,48.851487,2023-09-22
+1441,"8 Rue Paul Bert, Paris, France",2.3848031,48.851487,2023-09-22
+1442,"8 Rue Paul Bert, Paris, France",2.3848031,48.851487,2023-09-22
+1457,"165 Bd Voltaire, 75011 Paris, France",2.3854464,48.8548469,2023-09-29
+1530,"183 Bd Voltaire, 75011 Paris, France",2.3871386,48.8538408,2023-10-30
+1566,"18 Rue des Boulets, 75011 Paris, France",2.3908647,48.8503671,2023-11-10
+1583,"14 Rue Alexandre Dumas, 75011 Paris, France",2.3903342,48.8529853,2023-11-22
+1609,"49 Rue Alexandre Dumas, 75011 Paris, France",2.3946285,48.8540785,2023-12-06
+1711,"7 Rue Alexandre Dumas, 75011 Paris, France",2.3895039,48.8530418,2024-01-24
+1730,"18 Rue des Boulets, 75011 Paris, France",2.3908647,48.8503671,2024-01-31
+1733,"7 Rue Alexandre Dumas, 75011 Paris, France",2.3895039,48.8530418,2024-01-30
+1851,"26 Rue de la Folie-Regnault, 75011 Paris, France",2.3878808,48.8577987,2024-03-19
+1876,"26 Rue de la Folie-Regnault, 75011 Paris, France",2.3878808,48.8577987,2024-03-19
+1897,"29 Rue des Boulets, 75011 Paris, France",2.3896326,48.8512841,2024-04-05
+1954,"192 Bd Voltaire, 75011 Paris, France",2.3859298,48.8540793,2024-05-02
+1972,"7 Imp. Delaunay, 75011 Paris, France",2.3858428,48.8553145,2024-05-10
+2057,"218 Rue du Faubourg Saint-Antoine, 75012 Paris, France",2.386805,48.849358,2024-06-12
+2062,"218 Rue du Faubourg Saint-Antoine, 75012 Paris, France",2.386805,48.849358,2024-06-13
+2132,"192 Bd Voltaire, 75011 Paris, France",2.3859298,48.8540793,2024-07-17
+1252,"60 Rue Legendre, 75017 Paris, France",2.3164392,48.8853236,2023-06-28
+1254,"43 Av. des États Unis, 78000 Versailles, France",2.148491,48.8100868,2023-06-28
+1354,"12 Rue du Rocher, 75008 Paris, France",2.3230189,48.8760375,2023-08-02
+1363,"12 Rue du Rocher, 75008 Paris, France",2.3230189,48.8760375,2023-08-07
+1377,"50 Rue la Condamine, Paris, France",2.321981,48.886161,2023-08-22
+1511,"6 Rue des Cailloux, 92110 Clichy, France",2.3056854,48.8957131,2023-10-23
+1574,"9 Rue Parmentier, 92600 Asnières-sur-Seine, France",2.2755588,48.9089609,2023-11-15
+1700,"30 Rue Parent de Rosan, 75016 Paris, France",2.2595849,48.8405417,2024-01-17
+1909,"16 Rue des Graviers, Rueil-Malmaison, France",2.182003,48.8818526,2024-04-12
+1991,"8 rue de Turin, Paris, France",2.3255708,48.8799538,2024-05-22
+1998,"8 rue de Turin, Paris, France",2.3255708,48.8799538,2024-05-22
+2024,"8 Rue du Mont-Dore, 75017 Paris, France",2.3231785,48.8832217,2024-06-04
+2755,"67 Bd Bineau, 92200 Neuilly-sur-Seine, France",2.2809331,48.8866432,2025-03-24
+2764,"19 Rue de la Ferme, Boulogne-Billancourt, France",2.2388472,48.8304692,2025-03-27
+2803,"185 Rue Armand Silvestre, Courbevoie, France",2.2750121,48.9054182,2025-04-07
+3010,"20 ter Rue de Bezons, 92400 Courbevoie, France",2.2508917,48.8945874,2025-06-04
+3021,"11 Rue de l'Hôtel de ville, 92200 Neuilly-sur-Seine, France",2.2680816,48.8833287,2025-06-06
+3068,"21 Rue de Chartres, 92200 Neuilly-sur-Seine, France",2.2782623,48.8811889,2025-06-19
+2479,"5 Rue de Turin, 75008 Paris, France",2.3251161,48.8799492,2024-12-18
+2480,"3 Rue des Lilas, 75019 Paris, France",2.3952163,48.8778999,2024-12-18
+2481,"5 Rue Vivienne, 75002 Paris, France",2.3389067,48.8672227,2024-12-18
+2490,"5 Rue de Dunkerque, 75010 Paris, France",2.3578296,48.8791278,2024-12-19
+2503,"2 Rue des Cévennes, 75015 Paris, France",2.2760948,48.8443085,2024-12-26
+2504,"5 Rue du 8 Mai 1945, 75010 Paris, France",2.3591167,48.8758937,2024-12-26
+2505,"6 Rue de la Harpe, 75005 Paris, France",2.3447173,48.8529655,2024-12-26
+2784,"2 Rue Vergniaud, 75013 Paris, France",2.3456258,48.8301225,2025-03-28
+2846,"111 Rue des Morillons, 75015 Paris, France",2.3062264,48.8316275,2025-04-23
+2883,"3 Rue Vergniaud, 75013 Paris, France",2.3459841,48.8298222,2025-05-14
+2988,"121 Av. d'Italie, 75013 Paris, France",2.3594303,48.8218701,2025-06-10
+1413,"17 Bd Victor Hugo, 92200 Neuilly-sur-Seine, France",2.2803618,48.8846208,2023-12-14
+1434,"26 Bd du Château, 92200 Neuilly-sur-Seine, France",2.2705323,48.8901678,2023-09-22
+1595,"79 Bd du Général Koenig, 92200 Neuilly-sur-Seine, France",2.2522863,48.8810161,2023-11-24
+1653,"8 Rue Degas, 75016 Paris, France",2.2746605,48.8489487,2023-12-20
+1657,"8 Rue Degas, 75016 Paris, France",2.2746605,48.8489487,2023-12-27
+1688,"9 Rue du Commandant Pilot, 92200 Neuilly-sur-Seine, France",2.2773422,48.8809752,2024-01-16
+1742,"11 Rue des Dames Augustines, 92200 Neuilly-sur-Seine, France",2.2821631,48.8863889,2024-02-02
+1814,"5 Rue Fernand Pelloutier, 92110 Clichy, France",2.3007038,48.9019421,2024-03-07
+1817,"32 Rue Médéric, 75017 Paris, France",2.3049078,48.8812384,2024-03-06
+1852,"73 Bd Victor Hugo, 92200 Neuilly-sur-Seine, France",2.2722084,48.8955638,2024-03-19
+2241,"22 Bis Rue de Chartres, 92200 Neuilly-sur-Seine, France",2.2782911,48.8814901,2024-09-26
+2367,"5 Rue Charles Laffitte, 92200 Neuilly-sur-Seine, France",2.277289,48.8786897,2024-11-13
+2374,"19 Rue Leroux, Paris, France",2.286099,48.8717147,2024-11-15
+2375,"8 Rue du Commandant Pilot, 92200 Neuilly-sur-Seine, France",2.2777589,48.8809213,2024-11-15
+2559,"40 Bd de la République, 78400 Chatou, France",2.151868,48.893951,2025-01-17
+2562,"48 Rue de Sablonville, 92200 Neuilly-sur-Seine, France",2.2777561,48.8804697,2025-01-17
+2655,"16 Rue Jean Jacques Rousseau, 92150 Suresnes, France",2.219544,48.8638646,2025-02-19
+2751,"67 Bd Bineau, 92200 Neuilly-sur-Seine, France",2.2809331,48.8866432,2025-03-21
+2788,"11 Rue Marbeau, 75016 Paris, France",2.2804615,48.8743273,2025-04-01
+2840,"14 Rue du Château, 92200 Neuilly-sur-Seine, France",2.2624489,48.8866137,2025-04-22
+2937,"80 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine, France",2.2711958,48.8818775,2025-05-20
+1496,"15 Rue Delabordère, 92200 Neuilly-sur-Seine, France",2.2552899,48.8797804,2023-10-12
+1728,"10 Rue de Cîteaux, 75012 Paris, France",2.3805008,48.847369,2024-01-30
+1808,"15-17 Pl. d'Aligre, 75012 Paris, France",2.3788405,48.8487755,2024-03-01
+1877,"7 Av. de Lamballe, 75016 Paris, France",2.2821525,48.8543662,2024-03-29
+1891,"7 Av. de Lamballe, 75016 Paris, France",2.2821525,48.8543662,2024-04-12
+2063,"15-17 Pl. d'Aligre, 75012 Paris, France",2.3788405,48.8487755,2024-06-13
+2082,"72 Rue Crozatier, 75012 Paris, France",2.3793719,48.8500513,2024-07-04
+2102,"37 Rue de la Grange aux Belles, 75010 Paris, France",2.3673028,48.8754481,2024-07-10
+2118,"103 Rue La Fayette, 75010 Paris, France",2.3502624,48.8777677,2024-07-09
+2127,"13 Rue de Mulhouse, 75002 Paris, France",2.3465725,48.8689532,2024-07-12
+2153,"1 Rue Pixérécourt, 75020 Paris, France",2.3953771,48.8702827,2024-07-25
+2156,"83 Av. Niel, 75017 Paris, France",2.296323,48.8832382,2024-07-24
+2157,"20 Rue Jules Vallès, 75011 Paris, France",2.3850769,48.8541848,2024-08-05
+2365,"93 Bd Soult, 75012 Paris, France",2.4093748,48.8425183,2024-11-06
+2507,"61 Rue Bichat, 75010 Paris, France",2.3652669,48.8732072,2024-12-31
+2511,"167 Rue du Temple, 75003 Paris, France",2.3593942,48.8649889,2025-01-06
+2540,"24 Av. Philippe Auguste, 75011 Paris, France",2.3946081,48.8509763,2025-01-14
+2612,"11 Rue de l'Arsenal, 75004 Paris, France",2.3664701,48.8512671,2025-02-04
+2656,"46 Rue Crozatier, Paris, France",2.3806434,48.8485307,2025-02-18
+2670,"64 Bd de Bercy, 75012 Paris, France",2.3881674,48.8386227,2025-02-24
+2707,"7 Rue de Vouillé, Paris, France",2.3037048,48.8352476,2025-03-06
+2756,"24 Av. Philippe Auguste, 75011 Paris, France",2.3946217,48.8509622,2025-03-27
+2856,"46 Rue de Belleville, 75020 Paris, France",2.3813628,48.8727998,2025-04-28
+2947,"6 Rue Rambuteau, 75003 Paris, France",2.356466,48.8603567,2025-05-23
+2950,"16 Rue Taine, 75012 Paris, France",2.3926471,48.8378883,2025-05-23
+2984,"35 Rue Oberkampf, 75011 Paris, France",2.3702219,48.8640513,2025-06-05
+3039,"16 Bd de Strasbourg, 75010 Paris, France",2.3553658,48.8707221,2025-06-12
+3088,"21 Rue Saint-Blaise, 75020 Paris, France",2.4054135,48.8594212,2025-07-17
+3106,"1 Rue du Retrait, 75020 Paris, France",2.3961219,48.8676641,2025-07-15
+3117,"214 Rue du Faubourg Saint-Antoine, 75012 Paris, France",2.3866639,48.8495629,2025-08-07
+3137,"29 Rue Titon, 75011 Paris, France",2.3861296,48.8527282,2025-07-17
+3138,"4 Rue Malher, 75004 Paris, France",2.3613594,48.8555608,2025-07-16
+3151,"116 Rue Amelot, 75011 Paris, France",2.3672186,48.8637311,2025-07-18
+3163,"46 Rue Chanzy, 75011 Paris, France",2.386423,48.852935,2025-07-29
+3167,"25 Rue Francœur, 75018 Paris, France",2.3406515,48.8907213,2025-07-25
+3179,"46 Rue Chanzy, 75011 Paris, France",2.3870268,48.8531968,2025-07-30
+3180,"159 Rue de Charonne, 75011 Paris, France",2.3895175,48.8556799,2025-08-01
+3187,"24 Av. Philippe Auguste, 75011 Paris, France",2.3946217,48.8509622,2025-08-04
+3201,"20 Rue du Transvaal, 75020 Paris, France",2.3891075,48.8717445,2025-08-19
+1576,"34 Rue des cinq Diamants, 75013 Paris, France",2.3504262,48.8286973,2023-11-15
+1581,"180 Rue de Tolbiac, 75013 Paris, France",2.3511953,48.8259885,2023-11-21
+1723,"16 Rue des Orchidées, 75013 Paris, France",2.3451508,48.8230694,2024-01-25
+2661,"176 Rue de Tolbiac, 75013 Paris, France",2.3515342,48.8260821,2025-02-21
+2662,"176 Rue de Tolbiac, 75013 Paris, France",2.3515342,48.8260821,2025-02-21
+2828,"73 Rue Bobillot, 75013 Paris, France",2.3510159,48.8262206,2025-04-16
+2936,"38 Rue Samson, 75013 Paris, France",2.3505935,48.828389,2025-05-20
+2978,"9 Rue du Champ de l'Alouette, 75013 Paris, France",2.3460115,48.832266,2025-06-04
+1571,"10 Rue de la Paix, 78430 Louveciennes, France",2.1149082,48.8640866,2023-11-15
+1572,"110 Av. Achille Peretti, 92200 Neuilly-sur-Seine, France",2.2663279,48.8852135,2023-11-14
+1589,"110 Av. Achille Peretti, 92200 Neuilly-sur-Seine, France",2.2663279,48.8852135,2023-11-21
+1971,"130 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine, France",2.2662009,48.8833215,2024-05-10
+1623,"87 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine, France",2.2727877,48.880263,2023-12-14
+1747,"18 Rue Voltaire, 92250 La Garenne-Colombes, France",2.2477531,48.9070377,2024-02-07
+1748,"18 Rue Voltaire, 92250 La Garenne-Colombes, France",2.2477531,48.9070377,2024-02-07
+1843,"15 bis Rue Madeleine Michelis, 92200 Neuilly-sur-Seine, France",2.2761883,48.8811293,2024-03-21
+2207,"27 Av. Ferdinand Buisson, 92100 Boulogne-Billancourt, France",2.2528625,48.8373542,2024-09-13
+2323,"101 Bd Haussmann, 75008 Paris, France",2.3177524,48.8748207,2024-10-18
+2383,"115 Rue Jules Guesde, 92300 Levallois-Perret, France",2.2884613,48.8975973,2024-11-20
+2594,"75 Rue Saint-Jacques, 75005 Paris, France",2.3452586,48.8497234,2025-01-29
+2701,"35 Rue Marius Aufan, 92300 Levallois-Perret, France",2.2853076,48.8895549,2025-03-07
+2706,"90 Av. Henri Martin, 75016 Paris, France",2.2703317,48.8638083,2025-03-07
+2709,"94 Rue Louis Rouquier, 92300 Levallois-Perret, France",2.290889,48.8922347,2025-03-11
+2799,"34-36 Rue Danton, Levallois-Perret, France",2.2855721,48.8886905,2025-04-03
+1797,"36 Av. Niel, 75017 Paris, France",2.295997,48.8816966,2024-02-29
+1798,"36 Av. Niel, 75017 Paris, France",2.295997,48.8816966,2024-02-29
+1826,"28 Rue de Constantinople, 75008 Paris, France",2.3184015,48.8807747,2024-03-07
+1879,"37 Rue des Renaudes, 75017 Paris, France",2.297093,48.8811126,2024-03-28
+1980,"80 Avenue des Ternes, Paris, France",2.2891365,48.8800535,2024-05-15
+2097,"5 Avenue Niel, Paris, France",2.2942643,48.8793297,2024-07-01
+2306,"147 Av. de Clichy, 75017 Paris, France",2.3186359,48.8911948,2024-10-15
+2316,"65 Av. Niel, 75017 Paris, France",2.2957056,48.8821328,2024-10-14
+2393,"AGENCE IMMOBILIERE PARIS 17 TERNES FREDéLION, 36 Av. Niel, 75017 Paris, France",2.295997,48.8816966,2024-11-21
+2556,"38 Av. Bosquet, 75007 Paris, France",2.3041668,48.8567892,2025-01-17
+3103,"52 Rue des Entrepreneurs, Paris, France",2.2872563,48.8456457,2025-06-30
+3109,"20 Avenue Yves du Manoir, Paris, France",2.2872776,48.8819716,2025-07-03
+3135,"30 Rue de Chazelles, Paris, France",2.3063147,48.8807177,2025-07-16
+3165,"90 Avenue Niel, Paris, France",2.2970389,48.8835035,2025-07-24
+3181,"17 rue Poncelet, Paris, France",2.2969365,48.8792358,2025-08-01
+893,"38 Av. Junot, 75018 Paris, France",2.3369395,48.8891511,2023-03-02
+1793,"97 Rue de Charonne, 75011 Paris, France",2.3833704,48.8545315,2024-02-29
+1889,"17 Rue Neuve des Boulets, 75011 Paris, France",2.3895829,48.8542397,2024-04-04
+1949,"70 Rue de Montreuil, 75011 Paris, France",2.3915228,48.8502941,2024-05-06
+2350,"6 Rue Marsoulan, 75012 Paris, France",2.4030312,48.8453463,2024-11-06
+2369,"12 Rue de Nice, 75011 Paris, France",2.3908017,48.8552844,2024-11-14
+2387,"67 Rue Saint-Blaise, 75020 Paris, France",2.4089351,48.857203,2024-11-20
+2467,"9 Rue Alexandre Dumas, 75011 Paris, France",2.3896389,48.8530783,2024-12-20
+2514,"9 rue Alexandre-Dumas, 75011 Paris, France",2.3896389,48.8530783,2025-01-09
+2528,"212 Bd Voltaire, 75011 Paris, France",2.3874893,48.8531228,2025-01-13
+2623,"25 Rue Popincourt, 75011 Paris, France",2.3766496,48.8582518,2025-02-11
+2759,"133 Rue de la Roquette, 75011 Paris, France",2.3835804,48.8588715,2025-03-25
+2841,"25 Rue Titon, 75011 Paris, France",2.3861978,48.8523021,2025-04-23
+2881,"155 Av. Ledru Rollin, 75011 Paris, France",2.3783167,48.8553311,2025-05-09
+3005,"20 Rue Neuve des Boulets, 75011 Paris, France",2.3894809,48.8539583,2025-06-24
+3086,"11 Rue Jean-Macé, 75011 Paris, France",2.3835248,48.8530079,2025-06-24
+3087,"72 Rue de Charonne, 75011 Paris, France",2.3796879,48.8533623,2025-06-26
+1756,"5 Rue Tiquetonne, 75002 Paris, France",2.3496497,48.8643012,2024-02-08
+1963,"23 Rue Notre Dame de Nazareth, 75003 Paris, France",2.3593555,48.8671366,2024-05-06
+1993,"167 Rue du Temple, 75003 Paris, France",2.3593138,48.8650322,2024-05-27
+2011,"167 Rue du Temple, 75003 Paris, France",2.3593138,48.8650322,2024-05-29
+2019,"3 Bd de Bonne Nouvelle, 75002 Paris, France",2.3521067,48.8695671,2024-05-31
+2034,"143 Rue d'Aboukir, 75002 Paris, France",2.3507232,48.8695783,2024-06-11
+2039,"142 Rue St Denis, 75002 Paris, France",2.3505126,48.8652622,2024-06-06
+2056,"142 Rue St Denis, 75002 Paris, France",2.3505126,48.8652622,2024-06-11
+2069,"10 Rue Poissonnière, 75002 Paris, France",2.34782,48.8688839,2024-06-25
+2133,"142 Rue St Denis, 75002 Paris, France",2.3505126,48.8652622,2024-07-22
+2242,"39 Rue de Cléry, 75002 Paris, France",2.3483565,48.8686928,2024-09-26
+2660,"31 Bd de Bonne Nouvelle, 75002 Paris, France",2.348848,48.8702844,2025-02-20
+898,"67 Rue Caulaincourt, 75018 Paris, France",2.3361754,48.8896636,2023-03-01
+1957,"20 Rue de la Font du But, 75018 Paris, France",2.3396162,48.8909881,2024-05-10
+2067,"4 Rue Joseph Dijon, 75018 Paris, France",2.3472513,48.8939379,2024-06-24
+2075,"46 Rue Saint-André des Arts, 75006 Paris, France",2.3409135,48.8535087,2024-06-27
+2077,"46 Rue Saint-André des Arts, 75006 Paris, France",2.3409135,48.8535087,2024-06-29
+1858,"68 Quai de Jemmapes, 75010 Paris, France",2.3659356,48.871213,2024-03-22
+1859,"12 Rue de Nancy, 75010 Paris, France",2.3584431,48.8725239,2024-03-21
+2405,"42 Rue du Château d'Eau, 75010 Paris, France",2.3588404,48.8709787,2024-11-29
+2415,"2 Passage Brady, Paris, France",2.3562707,48.8710184,2024-11-29
+2486,"16 Rue Bouchardon, 75010 Paris, France",2.3577837,48.8703684,2024-12-20
+2606,"3 Rue de la Fidélité, 75010 Paris, France",2.3564955,48.8744558,2025-02-10
+2620,"3 Rue Bouchardon, 75010 Paris, France",2.3570766,48.8698062,2025-02-10
+2630,"54 Bis Rue de Lancry, 75010 Paris, France",2.3630432,48.8722862,2025-02-13
+2664,"149 Rue du Faubourg Saint-Denis, 75010 Paris, France",2.3563974,48.8783623,2025-02-20
+2668,"96 Rue de Maubeuge, Paris, France",2.351415,48.8801164,2025-02-25
+2727,"7 Bd de Magenta, 75010 Paris, France",2.3616562,48.8697173,2025-03-19
+2753,"12 Rue des Goncourt, 75010 Paris, France",2.3720803,48.8698168,2025-03-28
+2854,"32 Rue de l'Ourcq, 75019 Paris, France",2.3817512,48.8911157,2025-04-25
+2969,"54 Rue du Faubourg Saint-Martin, 75010 Paris, France",2.356952,48.8709427,2025-05-30
+2974,"24 Rue Lucien Sampaix, 75010 Paris, France",2.3614096,48.8723391,2025-06-02
+3074,"12 Rue Bouchardon, 75010 Paris, France",2.3575311,48.8699923,2025-06-20
+3125,"84 Rue du Faubourg Saint-Denis, 75010 Paris, France",2.3552569,48.8738123,2025-07-09
+3185,"29 Rue de la Grange aux Belles, 75010 Paris, France",2.3666574,48.8751224,2025-08-04
+2530,"5 Imp. Calmels, 75018 Paris, France",2.3388274,48.894402,2025-01-10
+2849,"7 Rue Durantin, 75018 Paris, France",2.337065,48.8855137,2025-05-05
+2884,"12 Rue Eugène Carrière, 75018 Paris, France",2.3325035,48.8892638,2025-05-12
+3071,"147 Bd Ney, 75018 Paris, France",2.3301923,48.8974156,2025-06-19
+3082,"147 Bd Ney, 75018 Paris, France",2.3301923,48.8974156,2025-06-23
+3120,"5 Rue Audran, 75018 Paris, France",2.3358026,48.8852191,2025-07-04
+2101,"110 Rue Petit, 75019 Paris, France",2.3921402,48.8861135,2024-07-09
+2106,"15 Rue de Meaux, 75019 Paris, France",2.3710691,48.8790311,2024-07-05
+2108,"53 Rue Rebeval, 75019 Paris, France",2.3795481,48.8749542,2024-07-08
+2193,"11 Rue Armand Carrel, 75019 Paris, France",2.3800194,48.8824676,2024-08-30
+2225,"105 Rue de Belleville, 75019 Paris, France",2.3865758,48.8746595,2024-09-18
+2239,"4 Cité Jandelle, 75019 Paris, France",2.3803417,48.8754307,2024-09-26
+2286,"103 Rue de Belleville, 75019 Paris, France",2.3863611,48.8745175,2024-10-02
+2358,"23 Rue Clavel, 75019 Paris, France",2.3835858,48.8753416,2024-10-30
+2474,"6 Rue de l'Équerre, 75019 Paris, France",2.3820456,48.8747593,2024-12-19
+2583,"86 Rue Botzaris, 75019 Paris, France",2.3894817,48.8793998,2025-01-24
+2054,"10 rue Riquet, Paris, France",2.3760397,48.8883893,2024-06-11
+2145,"45 Bd du Château, 92200 Neuilly-sur-Seine, France",2.2717532,48.8914245,2024-07-22
+2191,"101 Rue de Prony, 75017 Paris, France",2.298868,48.8844112,2024-08-30
+2196,"65 Avenue Niel, Paris, France",2.2957056,48.8821328,2024-09-03
+2201,"65 Avenue Niel, Paris, France",2.2957056,48.8821328,2024-09-06
+2208,"65 Avenue Niel, Paris, France",2.2957056,48.8821328,2024-09-11
+2624,"38 Rue Tiquetonne, 75002 Paris, France",2.3478173,48.8648255,2025-02-13
+2643,"38 Rue Tiquetonne, 75002 Paris, France",2.3478173,48.8648255,2025-02-14
+2666,"11 Bis Rue Faraday, 75017 Paris, France",2.2929709,48.8819933,2025-02-26
+2986,"32 Rue des Renaudes, 75017 Paris, France",2.2984944,48.8806941,2025-06-02
+3113,"19 Rue Jouffroy d'Abbans, 75017 Paris, France",2.3112161,48.886331,2025-07-03
+3175,"17 Rue du Faubourg St Denis, Paris, France",2.3528391,48.8704307,2025-07-30
+2181,"73 Rue de Clichy, 75009 Paris, France",2.3279282,48.8820953,2024-08-21
+2197,"81 Rue Caulaincourt, 75018 Paris, France",2.3373259,48.8897584,2024-09-04
+2522,"36 Rue Victor Hugo, 92700 Colombes, France",2.2629955,48.9208749,2025-01-10
+2621,"222 Avenue de la République, Deauville, France",0.067478,49.355034,2025-02-17
+2635,"15 Rue de Moscou, 75008 Paris, France",2.3242058,48.8806833,2025-02-13
+2769,"15 boulevard des Batignolles, Paris, France",2.3255521,48.8828526,2025-03-28
+2998,"15 Bd des Batignolles, 75008 Paris, France",2.3255521,48.8828526,2025-06-04
+3130,"11 Bd des Batignolles, Paris, France",2.3258758,48.8829279,2025-07-09
+2312,"14 Rue des Minimes, Paris, France",2.3656531,48.8573859,2024-10-11
+2768,"351 Rue des Pyrénées, 75020 Paris, France",2.3912843,48.8721947,2025-03-28
+2794,"183 Rue des Pyrénées, Paris, France",2.4003032,48.8608612,2025-04-03
+2808,"43 Rue Alphonse Penaud, Paris, France",2.4054599,48.8690521,2025-04-08
+1753,"12 Rue Ernestine, 75018 Paris, France",2.3547423,48.8893492,2024-02-05
+2200,"113 Rue du Mont-Cenis, 75018 Paris, France",2.3456107,48.8950972,2024-09-05
+2341,"24 Bd Barbès, 75018 Paris, France",2.3497321,48.8854385,2024-10-24
+2584,"46 Rue Joseph de Maistre, 75018 Paris, France",2.3318027,48.8890467,2025-01-24
+2715,"9b Rue de la Guadeloupe, Paris, France",2.3620046,48.8904425,2025-03-13
+2748,"72 Rue Condorcet, Paris, France",2.3410331,48.8804896,2025-03-24
+2816,"10 Rue Gustave Rouanet, Paris, France",2.3397372,48.8964673,2025-04-11
+2832,"23 Rue Simart, Paris, France",2.3476214,48.8908772,2025-04-16
+2876,"2 Rue Constance, 75018 Paris, France",2.3337901,48.8853143,2025-05-09
+2882,"59 Rue Caulaincourt, Paris, France",2.3351597,48.8896058,2025-05-09
+2887,"12 Rue Duhesme, 75018 Paris, France",2.3381193,48.8905847,2025-05-13
+2949,"29 Rue Durantin, 75018 Paris, France",2.3358741,48.8863516,2025-05-27
+2951,"93 Rue Caulaincourt, Paris, France",2.3381074,48.8897667,2025-05-22
+2967,"17 Rue Chappe, Paris, France",2.3415604,48.8848666,2025-05-30
+3089,"11 Rue Mansart, Paris, France",2.3324198,48.8820213,2025-06-24
+3091,"8 Rue Norvins, Paris, France",2.3407015,48.8868242,2025-06-26
+2331,"6 Rue Nollet, 75017 Paris, France",2.3244076,48.8851111,2024-10-22
+2391,"36 Rue Victor Hugo, 92700 Colombes, France",2.2629955,48.9208749,2024-11-20
+2804,"12 Rue Botzaris, 75019 Paris, France",2.3815336,48.876354,2025-04-08
+2853,"49 Rue Fessart, 75019 Paris, France",2.3833233,48.8767726,2025-04-25
+3051,"56 Rue Botzaris, 75019 Paris, France",2.3849192,48.8792246,2025-06-16
+3168,"6 Vla Albert Robida, 75019 Paris, France",2.390771,48.8791032,2025-07-29
+3196,"17 Cr du 7ème art, 75019 Paris, France",2.3860248,48.8781418,2025-08-07
+2500,"22 Rue d'Aligre, Paris, France",2.3787641,48.8494656,2024-12-23
+2864,"104 Rue de Charenton, Paris, France",2.3706974,48.852569,2025-04-30
+2927,"26 Rue Dagorno, Paris, France",2.4007905,48.842288,2025-05-15
+2935,"11 rue de la Véga, Paris, France",2.4047299,48.8375817,2025-05-19
+2946,"32 Rue de la Croix Saint-Simon, Paris, France",2.4094006,48.854811,2025-05-28
+3037,"1 Bis Rue Mornay, Paris, France",2.3659591,48.8493373,2025-06-12
+3050,"147 Rue de Bercy, Paris, France",2.3768729,48.8417111,2025-06-18
+3060,"10 Avenue Daumesnil, Paris, France",2.3718537,48.8486873,2025-06-17
+3154,"61 Rue Crozatier, 75012 Paris, France",2.3797619,48.8490213,2025-07-22
+2433,"89 Bd Aristide Briand, 93100 Montreuil, France",2.4521061,48.8716017,2024-12-05
+2526,"37 Bd Ornano, 75018 Paris, France",2.3469516,48.894521,2025-01-13
+2719,"46 Rue Léon Frot, 75011 Paris, France",2.3865903,48.8558761,2025-03-13
+2858,"195 Rue de Charenton, 75012 Paris, France",2.3886225,48.8399645,2025-04-30
+2962,"171 Bd Voltaire, 75011 Paris, France",2.3859944,48.8545453,2025-05-27
+2402,"5 Rue Camulogene, Paris, France",2.302873,48.8292024,2024-11-26
+2658,"28 Rue Castagnary, 75015 Paris, France",2.3093496,48.8344592,2025-02-21
+2739,"31 Rue Saint-Lambert, Paris, France",2.2924539,48.8371226,2025-03-17
+2789,"31 Rue Saint-Lambert, 75015 Paris, France",2.2924539,48.8371226,2025-04-01
+2806,"8 Rue Alfred Durand-Claye, 75014 Paris, France",2.3073958,48.8292901,2025-04-09
+3052,"12 Rue Jonquoy, 75014 Paris, France",2.3149544,48.829587,2025-06-18
+3062,"56 Rue Saint-Lambert, Paris, France",2.2929972,48.836352,2025-06-17
+3121,"18 Rue Jean Maridor, Paris, France",2.2859593,48.8390132,2025-07-07
+2581,"21 Rue Clavel, 75019 Paris, France",2.38388,48.8752856,2025-01-27
+2770,"103 Av. Pasteur, 93260 Les Lilas, France",2.4164332,48.8761991,2025-04-04
+2839,"145 Boulevard de Charonne, 75011 Paris, France",2.3907038,48.8578942,2025-04-22
+3058,"157 Bd Voltaire, 75011 Paris, France",2.3849108,48.8552049,2025-06-17
+3065,"157 Rue de Ménilmontant, 75020 Paris, France",2.3982993,48.8706637,2025-06-20
+3133,"29 Rue Basfroi, 75011 Paris, France",2.3788596,48.8552829,2025-07-09
+2420,"3 Bd de Bonne Nouvelle, 75002 Paris, France",2.3521067,48.8695671,2024-12-03
+2429,"3 Boulevard de Bonne Nouvelle, 75002 Paris, France",2.3521067,48.8695671,2024-12-05
+2472,"3 Bd de Bonne Nouvelle, Paris, France",2.3521067,48.8695671,2024-12-12
+2473,"3 Bd de Bonne Nouvelle, 75002 Paris, France",2.3521067,48.8695671,2024-12-13
+2823,"3 Bd de Bonne Nouvelle, 75002 Paris, France",2.3521067,48.8695671,2025-04-12
+2824,"3 Bd de Bonne Nouvelle, 75002 Paris, France",2.3521067,48.8695671,2025-04-12
+3108,"14 Rue Sainte-Foy, 75002 Paris, France",2.3509473,48.8686171,2025-07-02
+3147,"58 Rue Bonaparte, 75006 Paris, France",2.3330865,48.8528953,2025-07-16
+2592,"23 Rue de Liège, Paris, France",2.3265612,48.8794531,2025-01-27
+3003,"5 Rue des Reculettes, 75013 Paris, France",2.3518078,48.8318961,2025-06-05
+3078,"4 Place d'Italie, Paris, France",2.3545583,48.8320664,2025-06-20
+2955,"50 Rue de Dantzig, 75015 Paris, France",2.2973407,48.8325266,2025-05-24
+2956,"12 Rue de l'Arrivée, 75015 Paris, France",2.3218608,48.843444,2025-05-24
+3046,"15 Rue Labrouste, 75015 Paris, France",2.3092066,48.8351212,2025-06-12
+3090,"18 Rue d'Ouessant, 75015 Paris, France",2.298072,48.8496902,2025-06-26
+2976,"30 Av. Jean Moulin, 78380 Bougival, France",2.1381385,48.8558639,2025-06-03
+3118,"8 Bd de Strasbourg, 75010 Paris, France",2.3550271,48.8701272,2025-07-08
